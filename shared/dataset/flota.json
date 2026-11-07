@@ -1,0 +1,8002 @@
+[
+ {
+  "equipoId": "EQ-0001",
+  "empresaId": "EMP-01",
+  "lat": -8.125886,
+  "lng": -79.010868,
+  "rpm": 1976,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0002",
+  "empresaId": "EMP-02",
+  "lat": -8.109248,
+  "lng": -79.002585,
+  "rpm": 1689,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0003",
+  "empresaId": "EMP-03",
+  "lat": -8.118871,
+  "lng": -78.994612,
+  "rpm": 1690,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0004",
+  "empresaId": "EMP-04",
+  "lat": -8.127622,
+  "lng": -79.136261,
+  "rpm": 2051,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0005",
+  "empresaId": "EMP-05",
+  "lat": -8.249036,
+  "lng": -78.884142,
+  "rpm": 1963,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0006",
+  "empresaId": "EMP-06",
+  "lat": -8.039925,
+  "lng": -78.983779,
+  "rpm": 2138,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0007",
+  "empresaId": "EMP-07",
+  "lat": -8.01209,
+  "lng": -79.159851,
+  "rpm": 1536,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0008",
+  "empresaId": "EMP-08",
+  "lat": -7.997731,
+  "lng": -78.998915,
+  "rpm": 1975,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0009",
+  "empresaId": "EMP-09",
+  "lat": -8.129441,
+  "lng": -78.926072,
+  "rpm": 2031,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0010",
+  "empresaId": "EMP-10",
+  "lat": -8.069512,
+  "lng": -79.028868,
+  "rpm": 2178,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0011",
+  "empresaId": "EMP-11",
+  "lat": -8.124401,
+  "lng": -79.095351,
+  "rpm": 2064,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0012",
+  "empresaId": "EMP-12",
+  "lat": -8.049257,
+  "lng": -79.084217,
+  "rpm": 1735,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0013",
+  "empresaId": "EMP-13",
+  "lat": -8.174888,
+  "lng": -79.157733,
+  "rpm": 1610,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0014",
+  "empresaId": "EMP-14",
+  "lat": -8.229259,
+  "lng": -79.091529,
+  "rpm": 1568,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0015",
+  "empresaId": "EMP-15",
+  "lat": -8.007407,
+  "lng": -79.178637,
+  "rpm": 1714,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0016",
+  "empresaId": "EMP-16",
+  "lat": -8.120604,
+  "lng": -78.884692,
+  "rpm": 1906,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0017",
+  "empresaId": "EMP-17",
+  "lat": -8.239688,
+  "lng": -78.989964,
+  "rpm": 2191,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0018",
+  "empresaId": "EMP-18",
+  "lat": -8.160532,
+  "lng": -79.085437,
+  "rpm": 1515,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0019",
+  "empresaId": "EMP-19",
+  "lat": -8.034188,
+  "lng": -79.143402,
+  "rpm": 1752,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0020",
+  "empresaId": "EMP-20",
+  "lat": -8.258313,
+  "lng": -79.039318,
+  "rpm": 1998,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0021",
+  "empresaId": "EMP-01",
+  "lat": -8.056977,
+  "lng": -79.122284,
+  "rpm": 2021,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0022",
+  "empresaId": "EMP-02",
+  "lat": -7.966016,
+  "lng": -78.947943,
+  "rpm": 1929,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0023",
+  "empresaId": "EMP-03",
+  "lat": -8.146474,
+  "lng": -79.060344,
+  "rpm": 1717,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0024",
+  "empresaId": "EMP-04",
+  "lat": -8.180662,
+  "lng": -78.887521,
+  "rpm": 2106,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0025",
+  "empresaId": "EMP-05",
+  "lat": -7.962229,
+  "lng": -79.172911,
+  "rpm": 1691,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0026",
+  "empresaId": "EMP-06",
+  "lat": -7.962849,
+  "lng": -78.998194,
+  "rpm": 2090,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0027",
+  "empresaId": "EMP-07",
+  "lat": -8.248968,
+  "lng": -79.134892,
+  "rpm": 1952,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0028",
+  "empresaId": "EMP-08",
+  "lat": -8.258727,
+  "lng": -78.9957,
+  "rpm": 1803,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0029",
+  "empresaId": "EMP-09",
+  "lat": -8.23958,
+  "lng": -79.151765,
+  "rpm": 2096,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0030",
+  "empresaId": "EMP-10",
+  "lat": -8.188696,
+  "lng": -78.998415,
+  "rpm": 1880,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0031",
+  "empresaId": "EMP-11",
+  "lat": -8.125638,
+  "lng": -78.89106,
+  "rpm": 1995,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0032",
+  "empresaId": "EMP-12",
+  "lat": -8.220879,
+  "lng": -79.062971,
+  "rpm": 2142,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0033",
+  "empresaId": "EMP-13",
+  "lat": -8.168357,
+  "lng": -79.110285,
+  "rpm": 2125,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0034",
+  "empresaId": "EMP-14",
+  "lat": -8.043983,
+  "lng": -79.131257,
+  "rpm": 2144,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0035",
+  "empresaId": "EMP-15",
+  "lat": -8.202623,
+  "lng": -78.893759,
+  "rpm": 1994,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0036",
+  "empresaId": "EMP-16",
+  "lat": -8.238051,
+  "lng": -79.16458,
+  "rpm": 1611,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0037",
+  "empresaId": "EMP-17",
+  "lat": -8.107893,
+  "lng": -79.102246,
+  "rpm": 1901,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0038",
+  "empresaId": "EMP-18",
+  "lat": -8.135355,
+  "lng": -78.907353,
+  "rpm": 2002,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0039",
+  "empresaId": "EMP-19",
+  "lat": -8.105578,
+  "lng": -78.900029,
+  "rpm": 1570,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0040",
+  "empresaId": "EMP-20",
+  "lat": -8.193081,
+  "lng": -79.01099,
+  "rpm": 2130,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0041",
+  "empresaId": "EMP-01",
+  "lat": -8.239358,
+  "lng": -79.11508,
+  "rpm": 1708,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0042",
+  "empresaId": "EMP-02",
+  "lat": -8.240854,
+  "lng": -79.055372,
+  "rpm": 1755,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0043",
+  "empresaId": "EMP-03",
+  "lat": -8.247621,
+  "lng": -79.094211,
+  "rpm": 2043,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0044",
+  "empresaId": "EMP-04",
+  "lat": -7.96968,
+  "lng": -79.151142,
+  "rpm": 1641,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0045",
+  "empresaId": "EMP-05",
+  "lat": -7.967452,
+  "lng": -78.98172,
+  "rpm": 2034,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0046",
+  "empresaId": "EMP-06",
+  "lat": -7.977544,
+  "lng": -79.001837,
+  "rpm": 1518,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0047",
+  "empresaId": "EMP-07",
+  "lat": -7.988536,
+  "lng": -78.968509,
+  "rpm": 1534,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0048",
+  "empresaId": "EMP-08",
+  "lat": -8.082088,
+  "lng": -79.15635,
+  "rpm": 1568,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0049",
+  "empresaId": "EMP-09",
+  "lat": -8.165929,
+  "lng": -78.878993,
+  "rpm": 1577,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0050",
+  "empresaId": "EMP-10",
+  "lat": -8.097771,
+  "lng": -78.957698,
+  "rpm": 1632,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0051",
+  "empresaId": "EMP-11",
+  "lat": -8.15605,
+  "lng": -78.973256,
+  "rpm": 1579,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0052",
+  "empresaId": "EMP-12",
+  "lat": -7.978328,
+  "lng": -79.169719,
+  "rpm": 2011,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0053",
+  "empresaId": "EMP-13",
+  "lat": -8.25724,
+  "lng": -78.98012,
+  "rpm": 1888,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0054",
+  "empresaId": "EMP-14",
+  "lat": -8.257866,
+  "lng": -79.157125,
+  "rpm": 1592,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0055",
+  "empresaId": "EMP-15",
+  "lat": -8.226926,
+  "lng": -79.101639,
+  "rpm": 1926,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0056",
+  "empresaId": "EMP-16",
+  "lat": -8.145069,
+  "lng": -78.958289,
+  "rpm": 2094,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0057",
+  "empresaId": "EMP-17",
+  "lat": -8.129443,
+  "lng": -78.927289,
+  "rpm": 1585,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0058",
+  "empresaId": "EMP-18",
+  "lat": -8.036537,
+  "lng": -79.169863,
+  "rpm": 2115,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0059",
+  "empresaId": "EMP-19",
+  "lat": -8.117313,
+  "lng": -79.109734,
+  "rpm": 1615,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0060",
+  "empresaId": "EMP-20",
+  "lat": -8.027616,
+  "lng": -78.980761,
+  "rpm": 1997,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0061",
+  "empresaId": "EMP-01",
+  "lat": -7.992674,
+  "lng": -79.068415,
+  "rpm": 1646,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0062",
+  "empresaId": "EMP-02",
+  "lat": -8.200828,
+  "lng": -79.127918,
+  "rpm": 1850,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0063",
+  "empresaId": "EMP-03",
+  "lat": -8.112107,
+  "lng": -79.106355,
+  "rpm": 1914,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0064",
+  "empresaId": "EMP-04",
+  "lat": -8.202048,
+  "lng": -79.049531,
+  "rpm": 1705,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0065",
+  "empresaId": "EMP-05",
+  "lat": -8.146274,
+  "lng": -79.003868,
+  "rpm": 1824,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0066",
+  "empresaId": "EMP-06",
+  "lat": -8.220747,
+  "lng": -79.02986,
+  "rpm": 1541,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0067",
+  "empresaId": "EMP-07",
+  "lat": -7.9766,
+  "lng": -79.095761,
+  "rpm": 1673,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0068",
+  "empresaId": "EMP-08",
+  "lat": -8.126405,
+  "lng": -79.096251,
+  "rpm": 1719,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0069",
+  "empresaId": "EMP-09",
+  "lat": -8.146836,
+  "lng": -79.022807,
+  "rpm": 2188,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0070",
+  "empresaId": "EMP-10",
+  "lat": -8.046717,
+  "lng": -78.926229,
+  "rpm": 2139,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0071",
+  "empresaId": "EMP-11",
+  "lat": -8.165496,
+  "lng": -78.930182,
+  "rpm": 1784,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0072",
+  "empresaId": "EMP-12",
+  "lat": -8.249153,
+  "lng": -78.966211,
+  "rpm": 2084,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0073",
+  "empresaId": "EMP-13",
+  "lat": -8.168891,
+  "lng": -78.941346,
+  "rpm": 1519,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0074",
+  "empresaId": "EMP-14",
+  "lat": -8.220836,
+  "lng": -79.04235,
+  "rpm": 1525,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0075",
+  "empresaId": "EMP-15",
+  "lat": -8.190377,
+  "lng": -79.136538,
+  "rpm": 1548,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0076",
+  "empresaId": "EMP-16",
+  "lat": -8.227009,
+  "lng": -79.146094,
+  "rpm": 2048,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0077",
+  "empresaId": "EMP-17",
+  "lat": -8.069625,
+  "lng": -79.068195,
+  "rpm": 1579,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0078",
+  "empresaId": "EMP-18",
+  "lat": -8.201798,
+  "lng": -79.036257,
+  "rpm": 1682,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0079",
+  "empresaId": "EMP-19",
+  "lat": -8.035085,
+  "lng": -79.018345,
+  "rpm": 1537,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0080",
+  "empresaId": "EMP-20",
+  "lat": -8.193663,
+  "lng": -78.945225,
+  "rpm": 2052,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0081",
+  "empresaId": "EMP-01",
+  "lat": -8.111475,
+  "lng": -78.879757,
+  "rpm": 1663,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0082",
+  "empresaId": "EMP-02",
+  "lat": -8.006971,
+  "lng": -78.968863,
+  "rpm": 1729,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0083",
+  "empresaId": "EMP-03",
+  "lat": -8.138455,
+  "lng": -78.911005,
+  "rpm": 1897,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0084",
+  "empresaId": "EMP-04",
+  "lat": -8.126449,
+  "lng": -79.119737,
+  "rpm": 1506,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0085",
+  "empresaId": "EMP-05",
+  "lat": -8.096596,
+  "lng": -78.982998,
+  "rpm": 2014,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0086",
+  "empresaId": "EMP-06",
+  "lat": -8.122488,
+  "lng": -78.983403,
+  "rpm": 1709,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0087",
+  "empresaId": "EMP-07",
+  "lat": -8.045019,
+  "lng": -78.933296,
+  "rpm": 2157,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0088",
+  "empresaId": "EMP-08",
+  "lat": -8.197611,
+  "lng": -78.908805,
+  "rpm": 1589,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0089",
+  "empresaId": "EMP-09",
+  "lat": -8.100513,
+  "lng": -78.941564,
+  "rpm": 1828,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0090",
+  "empresaId": "EMP-10",
+  "lat": -7.988603,
+  "lng": -78.922065,
+  "rpm": 1856,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0091",
+  "empresaId": "EMP-11",
+  "lat": -8.236768,
+  "lng": -79.04653,
+  "rpm": 2063,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0092",
+  "empresaId": "EMP-12",
+  "lat": -8.03113,
+  "lng": -79.032566,
+  "rpm": 1529,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0093",
+  "empresaId": "EMP-13",
+  "lat": -8.018858,
+  "lng": -79.159583,
+  "rpm": 1535,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0094",
+  "empresaId": "EMP-14",
+  "lat": -8.101663,
+  "lng": -78.972825,
+  "rpm": 1643,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0095",
+  "empresaId": "EMP-15",
+  "lat": -8.216997,
+  "lng": -79.023843,
+  "rpm": 2030,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0096",
+  "empresaId": "EMP-16",
+  "lat": -7.977876,
+  "lng": -79.031026,
+  "rpm": 1588,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0097",
+  "empresaId": "EMP-17",
+  "lat": -8.129773,
+  "lng": -79.011168,
+  "rpm": 2075,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0098",
+  "empresaId": "EMP-18",
+  "lat": -8.212295,
+  "lng": -79.024536,
+  "rpm": 2073,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0099",
+  "empresaId": "EMP-19",
+  "lat": -8.168091,
+  "lng": -79.064435,
+  "rpm": 2124,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0100",
+  "empresaId": "EMP-20",
+  "lat": -8.170263,
+  "lng": -79.136455,
+  "rpm": 2057,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0101",
+  "empresaId": "EMP-01",
+  "lat": -8.179711,
+  "lng": -79.029506,
+  "rpm": 1920,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0102",
+  "empresaId": "EMP-02",
+  "lat": -8.227316,
+  "lng": -79.177319,
+  "rpm": 1886,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0103",
+  "empresaId": "EMP-03",
+  "lat": -8.100104,
+  "lng": -79.165614,
+  "rpm": 1910,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0104",
+  "empresaId": "EMP-04",
+  "lat": -8.021279,
+  "lng": -79.00994,
+  "rpm": 2002,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0105",
+  "empresaId": "EMP-05",
+  "lat": -8.054304,
+  "lng": -79.15903,
+  "rpm": 2051,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0106",
+  "empresaId": "EMP-06",
+  "lat": -8.137468,
+  "lng": -78.89174,
+  "rpm": 1913,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0107",
+  "empresaId": "EMP-07",
+  "lat": -8.187717,
+  "lng": -79.030889,
+  "rpm": 1847,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0108",
+  "empresaId": "EMP-08",
+  "lat": -7.991332,
+  "lng": -78.898093,
+  "rpm": 1987,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0109",
+  "empresaId": "EMP-09",
+  "lat": -8.166436,
+  "lng": -79.121364,
+  "rpm": 2132,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0110",
+  "empresaId": "EMP-10",
+  "lat": -7.984019,
+  "lng": -79.139962,
+  "rpm": 1523,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0111",
+  "empresaId": "EMP-11",
+  "lat": -8.203368,
+  "lng": -79.110622,
+  "rpm": 1790,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0112",
+  "empresaId": "EMP-12",
+  "lat": -8.044519,
+  "lng": -79.10546,
+  "rpm": 2010,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0113",
+  "empresaId": "EMP-13",
+  "lat": -8.111697,
+  "lng": -79.004129,
+  "rpm": 2022,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0114",
+  "empresaId": "EMP-14",
+  "lat": -8.186434,
+  "lng": -79.119481,
+  "rpm": 2043,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0115",
+  "empresaId": "EMP-15",
+  "lat": -8.254625,
+  "lng": -78.988898,
+  "rpm": 2042,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0116",
+  "empresaId": "EMP-16",
+  "lat": -8.213681,
+  "lng": -79.11752,
+  "rpm": 2146,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0117",
+  "empresaId": "EMP-17",
+  "lat": -8.07006,
+  "lng": -79.019914,
+  "rpm": 2055,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0118",
+  "empresaId": "EMP-18",
+  "lat": -8.085607,
+  "lng": -79.13786,
+  "rpm": 2142,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0119",
+  "empresaId": "EMP-19",
+  "lat": -7.990797,
+  "lng": -79.084038,
+  "rpm": 1822,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0120",
+  "empresaId": "EMP-20",
+  "lat": -8.196157,
+  "lng": -78.879294,
+  "rpm": 1599,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0121",
+  "empresaId": "EMP-01",
+  "lat": -7.994909,
+  "lng": -79.139038,
+  "rpm": 1590,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0122",
+  "empresaId": "EMP-02",
+  "lat": -8.14523,
+  "lng": -79.048361,
+  "rpm": 1931,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0123",
+  "empresaId": "EMP-03",
+  "lat": -8.024619,
+  "lng": -79.140999,
+  "rpm": 1912,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0124",
+  "empresaId": "EMP-04",
+  "lat": -8.056036,
+  "lng": -79.173472,
+  "rpm": 1705,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0125",
+  "empresaId": "EMP-05",
+  "lat": -8.056885,
+  "lng": -78.905388,
+  "rpm": 1869,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0126",
+  "empresaId": "EMP-06",
+  "lat": -8.050187,
+  "lng": -78.988402,
+  "rpm": 1851,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0127",
+  "empresaId": "EMP-07",
+  "lat": -7.962024,
+  "lng": -78.928915,
+  "rpm": 1572,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0128",
+  "empresaId": "EMP-08",
+  "lat": -8.229748,
+  "lng": -79.167569,
+  "rpm": 2064,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0129",
+  "empresaId": "EMP-09",
+  "lat": -8.107153,
+  "lng": -79.008177,
+  "rpm": 1650,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0130",
+  "empresaId": "EMP-10",
+  "lat": -8.206239,
+  "lng": -79.117626,
+  "rpm": 1661,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0131",
+  "empresaId": "EMP-11",
+  "lat": -7.983532,
+  "lng": -79.150226,
+  "rpm": 1563,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0132",
+  "empresaId": "EMP-12",
+  "lat": -7.976152,
+  "lng": -79.040179,
+  "rpm": 1599,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0133",
+  "empresaId": "EMP-13",
+  "lat": -8.144335,
+  "lng": -79.050867,
+  "rpm": 1863,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0134",
+  "empresaId": "EMP-14",
+  "lat": -8.198574,
+  "lng": -79.066854,
+  "rpm": 2149,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0135",
+  "empresaId": "EMP-15",
+  "lat": -8.008321,
+  "lng": -79.124419,
+  "rpm": 1964,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0136",
+  "empresaId": "EMP-16",
+  "lat": -8.0398,
+  "lng": -79.057209,
+  "rpm": 1699,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0137",
+  "empresaId": "EMP-17",
+  "lat": -8.212077,
+  "lng": -79.025032,
+  "rpm": 1515,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0138",
+  "empresaId": "EMP-18",
+  "lat": -7.993645,
+  "lng": -78.938288,
+  "rpm": 2144,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0139",
+  "empresaId": "EMP-19",
+  "lat": -8.090695,
+  "lng": -79.121516,
+  "rpm": 2098,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0140",
+  "empresaId": "EMP-20",
+  "lat": -8.020154,
+  "lng": -79.101321,
+  "rpm": 1619,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0141",
+  "empresaId": "EMP-01",
+  "lat": -8.017207,
+  "lng": -79.057109,
+  "rpm": 1837,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0142",
+  "empresaId": "EMP-02",
+  "lat": -8.05316,
+  "lng": -78.948619,
+  "rpm": 1685,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0143",
+  "empresaId": "EMP-03",
+  "lat": -8.199551,
+  "lng": -79.123355,
+  "rpm": 1849,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0144",
+  "empresaId": "EMP-04",
+  "lat": -8.120948,
+  "lng": -79.175622,
+  "rpm": 1864,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0145",
+  "empresaId": "EMP-05",
+  "lat": -7.990789,
+  "lng": -79.163929,
+  "rpm": 1779,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0146",
+  "empresaId": "EMP-06",
+  "lat": -8.160255,
+  "lng": -78.980872,
+  "rpm": 2083,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0147",
+  "empresaId": "EMP-07",
+  "lat": -8.101676,
+  "lng": -79.061922,
+  "rpm": 2009,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0148",
+  "empresaId": "EMP-08",
+  "lat": -8.197634,
+  "lng": -79.142917,
+  "rpm": 1904,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0149",
+  "empresaId": "EMP-09",
+  "lat": -8.254754,
+  "lng": -78.994181,
+  "rpm": 1742,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0150",
+  "empresaId": "EMP-10",
+  "lat": -8.128506,
+  "lng": -79.027372,
+  "rpm": 1700,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0151",
+  "empresaId": "EMP-11",
+  "lat": -8.148897,
+  "lng": -79.149265,
+  "rpm": 1756,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0152",
+  "empresaId": "EMP-12",
+  "lat": -7.989907,
+  "lng": -79.013783,
+  "rpm": 2020,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0153",
+  "empresaId": "EMP-13",
+  "lat": -7.971459,
+  "lng": -79.008406,
+  "rpm": 1602,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0154",
+  "empresaId": "EMP-14",
+  "lat": -8.128297,
+  "lng": -78.985404,
+  "rpm": 2062,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0155",
+  "empresaId": "EMP-15",
+  "lat": -8.061071,
+  "lng": -78.892197,
+  "rpm": 1895,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0156",
+  "empresaId": "EMP-16",
+  "lat": -8.145829,
+  "lng": -78.887779,
+  "rpm": 2007,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0157",
+  "empresaId": "EMP-17",
+  "lat": -8.078249,
+  "lng": -79.161236,
+  "rpm": 2006,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0158",
+  "empresaId": "EMP-18",
+  "lat": -8.176269,
+  "lng": -79.05923,
+  "rpm": 1819,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0159",
+  "empresaId": "EMP-19",
+  "lat": -8.102478,
+  "lng": -79.033827,
+  "rpm": 1776,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0160",
+  "empresaId": "EMP-20",
+  "lat": -7.982757,
+  "lng": -78.979722,
+  "rpm": 1803,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0161",
+  "empresaId": "EMP-01",
+  "lat": -8.257396,
+  "lng": -79.105293,
+  "rpm": 1543,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0162",
+  "empresaId": "EMP-02",
+  "lat": -8.214624,
+  "lng": -78.952407,
+  "rpm": 1899,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0163",
+  "empresaId": "EMP-03",
+  "lat": -7.992337,
+  "lng": -78.954291,
+  "rpm": 1551,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0164",
+  "empresaId": "EMP-04",
+  "lat": -7.964969,
+  "lng": -78.895463,
+  "rpm": 1575,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0165",
+  "empresaId": "EMP-05",
+  "lat": -8.132745,
+  "lng": -79.035517,
+  "rpm": 1749,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0166",
+  "empresaId": "EMP-06",
+  "lat": -8.104592,
+  "lng": -78.897619,
+  "rpm": 1979,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0167",
+  "empresaId": "EMP-07",
+  "lat": -7.967954,
+  "lng": -78.933791,
+  "rpm": 2118,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0168",
+  "empresaId": "EMP-08",
+  "lat": -8.24648,
+  "lng": -79.053653,
+  "rpm": 1620,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0169",
+  "empresaId": "EMP-09",
+  "lat": -8.003261,
+  "lng": -79.071791,
+  "rpm": 1658,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0170",
+  "empresaId": "EMP-10",
+  "lat": -8.152609,
+  "lng": -79.136867,
+  "rpm": 1926,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0171",
+  "empresaId": "EMP-11",
+  "lat": -8.081285,
+  "lng": -78.986922,
+  "rpm": 2198,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0172",
+  "empresaId": "EMP-12",
+  "lat": -8.152394,
+  "lng": -78.95564,
+  "rpm": 1640,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0173",
+  "empresaId": "EMP-13",
+  "lat": -8.041315,
+  "lng": -79.107277,
+  "rpm": 1616,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0174",
+  "empresaId": "EMP-14",
+  "lat": -7.99379,
+  "lng": -78.943507,
+  "rpm": 2139,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0175",
+  "empresaId": "EMP-15",
+  "lat": -8.179173,
+  "lng": -78.995857,
+  "rpm": 2078,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0176",
+  "empresaId": "EMP-16",
+  "lat": -8.204593,
+  "lng": -79.095208,
+  "rpm": 1745,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0177",
+  "empresaId": "EMP-17",
+  "lat": -7.976031,
+  "lng": -79.028155,
+  "rpm": 2168,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0178",
+  "empresaId": "EMP-18",
+  "lat": -7.997967,
+  "lng": -79.166948,
+  "rpm": 1562,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0179",
+  "empresaId": "EMP-19",
+  "lat": -8.180318,
+  "lng": -79.051242,
+  "rpm": 2138,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0180",
+  "empresaId": "EMP-20",
+  "lat": -8.230859,
+  "lng": -79.016306,
+  "rpm": 1574,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0181",
+  "empresaId": "EMP-01",
+  "lat": -7.987734,
+  "lng": -79.130543,
+  "rpm": 1740,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0182",
+  "empresaId": "EMP-02",
+  "lat": -7.967153,
+  "lng": -79.033597,
+  "rpm": 1862,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0183",
+  "empresaId": "EMP-03",
+  "lat": -8.160123,
+  "lng": -79.030478,
+  "rpm": 1636,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0184",
+  "empresaId": "EMP-04",
+  "lat": -8.020924,
+  "lng": -79.044607,
+  "rpm": 2138,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0185",
+  "empresaId": "EMP-05",
+  "lat": -8.128298,
+  "lng": -78.954604,
+  "rpm": 1899,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0186",
+  "empresaId": "EMP-06",
+  "lat": -8.150915,
+  "lng": -78.982703,
+  "rpm": 2110,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0187",
+  "empresaId": "EMP-07",
+  "lat": -8.174334,
+  "lng": -78.951104,
+  "rpm": 1688,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0188",
+  "empresaId": "EMP-08",
+  "lat": -8.065458,
+  "lng": -79.004623,
+  "rpm": 1973,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0189",
+  "empresaId": "EMP-09",
+  "lat": -8.238048,
+  "lng": -79.153894,
+  "rpm": 2077,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0190",
+  "empresaId": "EMP-10",
+  "lat": -8.116143,
+  "lng": -78.973202,
+  "rpm": 1806,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0191",
+  "empresaId": "EMP-11",
+  "lat": -8.238776,
+  "lng": -79.114822,
+  "rpm": 2177,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0192",
+  "empresaId": "EMP-12",
+  "lat": -8.237087,
+  "lng": -79.087658,
+  "rpm": 1835,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0193",
+  "empresaId": "EMP-13",
+  "lat": -7.997087,
+  "lng": -79.113174,
+  "rpm": 2173,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0194",
+  "empresaId": "EMP-14",
+  "lat": -8.151682,
+  "lng": -79.143585,
+  "rpm": 1951,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0195",
+  "empresaId": "EMP-15",
+  "lat": -8.083169,
+  "lng": -78.908083,
+  "rpm": 1785,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0196",
+  "empresaId": "EMP-16",
+  "lat": -8.102537,
+  "lng": -78.88109,
+  "rpm": 1969,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0197",
+  "empresaId": "EMP-17",
+  "lat": -8.195236,
+  "lng": -78.888469,
+  "rpm": 2028,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0198",
+  "empresaId": "EMP-18",
+  "lat": -8.236314,
+  "lng": -78.930243,
+  "rpm": 1524,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0199",
+  "empresaId": "EMP-19",
+  "lat": -8.058499,
+  "lng": -79.003357,
+  "rpm": 1699,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0200",
+  "empresaId": "EMP-20",
+  "lat": -8.151126,
+  "lng": -79.061726,
+  "rpm": 1658,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0201",
+  "empresaId": "EMP-01",
+  "lat": -8.092766,
+  "lng": -79.125822,
+  "rpm": 1965,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0202",
+  "empresaId": "EMP-02",
+  "lat": -8.018044,
+  "lng": -79.112428,
+  "rpm": 1559,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0203",
+  "empresaId": "EMP-03",
+  "lat": -8.213995,
+  "lng": -79.090036,
+  "rpm": 1522,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0204",
+  "empresaId": "EMP-04",
+  "lat": -8.009094,
+  "lng": -79.051976,
+  "rpm": 2095,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0205",
+  "empresaId": "EMP-05",
+  "lat": -8.169958,
+  "lng": -79.015163,
+  "rpm": 1842,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0206",
+  "empresaId": "EMP-06",
+  "lat": -8.179507,
+  "lng": -79.147178,
+  "rpm": 1821,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0207",
+  "empresaId": "EMP-07",
+  "lat": -8.253812,
+  "lng": -78.982738,
+  "rpm": 1599,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0208",
+  "empresaId": "EMP-08",
+  "lat": -8.134984,
+  "lng": -78.965139,
+  "rpm": 2000,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0209",
+  "empresaId": "EMP-09",
+  "lat": -8.16015,
+  "lng": -79.041079,
+  "rpm": 1858,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0210",
+  "empresaId": "EMP-10",
+  "lat": -8.019417,
+  "lng": -79.07891,
+  "rpm": 1639,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0211",
+  "empresaId": "EMP-11",
+  "lat": -8.115188,
+  "lng": -78.937365,
+  "rpm": 1574,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0212",
+  "empresaId": "EMP-12",
+  "lat": -7.987107,
+  "lng": -79.055618,
+  "rpm": 2182,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0213",
+  "empresaId": "EMP-13",
+  "lat": -8.005549,
+  "lng": -78.937028,
+  "rpm": 1591,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0214",
+  "empresaId": "EMP-14",
+  "lat": -7.974264,
+  "lng": -78.986718,
+  "rpm": 2036,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0215",
+  "empresaId": "EMP-15",
+  "lat": -8.048574,
+  "lng": -78.938124,
+  "rpm": 1931,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0216",
+  "empresaId": "EMP-16",
+  "lat": -7.986931,
+  "lng": -79.105084,
+  "rpm": 1666,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0217",
+  "empresaId": "EMP-17",
+  "lat": -8.148943,
+  "lng": -79.128503,
+  "rpm": 1709,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0218",
+  "empresaId": "EMP-18",
+  "lat": -8.134116,
+  "lng": -79.091193,
+  "rpm": 1560,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0219",
+  "empresaId": "EMP-19",
+  "lat": -8.169067,
+  "lng": -79.144356,
+  "rpm": 2163,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0220",
+  "empresaId": "EMP-20",
+  "lat": -8.028819,
+  "lng": -79.12497,
+  "rpm": 1563,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0221",
+  "empresaId": "EMP-01",
+  "lat": -8.256449,
+  "lng": -79.034477,
+  "rpm": 1537,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0222",
+  "empresaId": "EMP-02",
+  "lat": -8.228997,
+  "lng": -79.123438,
+  "rpm": 1722,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0223",
+  "empresaId": "EMP-03",
+  "lat": -8.190977,
+  "lng": -78.963627,
+  "rpm": 2109,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0224",
+  "empresaId": "EMP-04",
+  "lat": -8.194412,
+  "lng": -79.123304,
+  "rpm": 1787,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0225",
+  "empresaId": "EMP-05",
+  "lat": -8.209846,
+  "lng": -78.951549,
+  "rpm": 1819,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0226",
+  "empresaId": "EMP-06",
+  "lat": -8.09713,
+  "lng": -78.933661,
+  "rpm": 1990,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0227",
+  "empresaId": "EMP-07",
+  "lat": -8.116172,
+  "lng": -79.058015,
+  "rpm": 1850,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0228",
+  "empresaId": "EMP-08",
+  "lat": -8.030096,
+  "lng": -79.151074,
+  "rpm": 1726,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0229",
+  "empresaId": "EMP-09",
+  "lat": -8.246688,
+  "lng": -78.894544,
+  "rpm": 1894,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0230",
+  "empresaId": "EMP-10",
+  "lat": -8.023188,
+  "lng": -78.946549,
+  "rpm": 1559,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0231",
+  "empresaId": "EMP-11",
+  "lat": -7.993941,
+  "lng": -78.916585,
+  "rpm": 1880,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0232",
+  "empresaId": "EMP-12",
+  "lat": -8.022568,
+  "lng": -78.964814,
+  "rpm": 2120,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0233",
+  "empresaId": "EMP-13",
+  "lat": -8.136868,
+  "lng": -78.94722,
+  "rpm": 1648,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0234",
+  "empresaId": "EMP-14",
+  "lat": -7.989168,
+  "lng": -78.935798,
+  "rpm": 1634,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0235",
+  "empresaId": "EMP-15",
+  "lat": -8.039098,
+  "lng": -78.992951,
+  "rpm": 2028,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0236",
+  "empresaId": "EMP-16",
+  "lat": -8.245718,
+  "lng": -79.007237,
+  "rpm": 1682,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0237",
+  "empresaId": "EMP-17",
+  "lat": -8.200309,
+  "lng": -78.903932,
+  "rpm": 1652,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0238",
+  "empresaId": "EMP-18",
+  "lat": -8.236872,
+  "lng": -79.097824,
+  "rpm": 2040,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0239",
+  "empresaId": "EMP-19",
+  "lat": -7.994704,
+  "lng": -78.970692,
+  "rpm": 1584,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0240",
+  "empresaId": "EMP-20",
+  "lat": -8.098577,
+  "lng": -79.027009,
+  "rpm": 1519,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0241",
+  "empresaId": "EMP-01",
+  "lat": -8.136509,
+  "lng": -78.903773,
+  "rpm": 1593,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0242",
+  "empresaId": "EMP-02",
+  "lat": -8.199078,
+  "lng": -79.015789,
+  "rpm": 2038,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0243",
+  "empresaId": "EMP-03",
+  "lat": -8.214335,
+  "lng": -78.929197,
+  "rpm": 1818,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0244",
+  "empresaId": "EMP-04",
+  "lat": -8.168376,
+  "lng": -79.155992,
+  "rpm": 1813,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0245",
+  "empresaId": "EMP-05",
+  "lat": -8.061456,
+  "lng": -79.158688,
+  "rpm": 1576,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0246",
+  "empresaId": "EMP-06",
+  "lat": -8.229874,
+  "lng": -79.060529,
+  "rpm": 1972,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0247",
+  "empresaId": "EMP-07",
+  "lat": -8.065419,
+  "lng": -79.175096,
+  "rpm": 1886,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0248",
+  "empresaId": "EMP-08",
+  "lat": -8.190357,
+  "lng": -79.009565,
+  "rpm": 1969,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0249",
+  "empresaId": "EMP-09",
+  "lat": -8.00478,
+  "lng": -78.925448,
+  "rpm": 1711,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0250",
+  "empresaId": "EMP-10",
+  "lat": -8.21596,
+  "lng": -78.990468,
+  "rpm": 2052,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0251",
+  "empresaId": "EMP-11",
+  "lat": -7.975373,
+  "lng": -78.952323,
+  "rpm": 2068,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0252",
+  "empresaId": "EMP-12",
+  "lat": -8.184666,
+  "lng": -79.118817,
+  "rpm": 1612,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0253",
+  "empresaId": "EMP-13",
+  "lat": -8.168686,
+  "lng": -79.096658,
+  "rpm": 1981,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0254",
+  "empresaId": "EMP-14",
+  "lat": -8.162102,
+  "lng": -78.930734,
+  "rpm": 1594,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0255",
+  "empresaId": "EMP-15",
+  "lat": -8.219353,
+  "lng": -79.150481,
+  "rpm": 2193,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0256",
+  "empresaId": "EMP-16",
+  "lat": -8.049113,
+  "lng": -79.124839,
+  "rpm": 1911,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0257",
+  "empresaId": "EMP-17",
+  "lat": -8.010524,
+  "lng": -79.000978,
+  "rpm": 1592,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0258",
+  "empresaId": "EMP-18",
+  "lat": -8.193625,
+  "lng": -79.131674,
+  "rpm": 1627,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0259",
+  "empresaId": "EMP-19",
+  "lat": -8.139548,
+  "lng": -79.156995,
+  "rpm": 1937,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0260",
+  "empresaId": "EMP-20",
+  "lat": -8.219884,
+  "lng": -79.117164,
+  "rpm": 1651,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0261",
+  "empresaId": "EMP-01",
+  "lat": -8.116777,
+  "lng": -78.902403,
+  "rpm": 2137,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0262",
+  "empresaId": "EMP-02",
+  "lat": -8.043518,
+  "lng": -78.994871,
+  "rpm": 1825,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0263",
+  "empresaId": "EMP-03",
+  "lat": -8.063531,
+  "lng": -78.996219,
+  "rpm": 1518,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0264",
+  "empresaId": "EMP-04",
+  "lat": -8.162295,
+  "lng": -79.076129,
+  "rpm": 2166,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0265",
+  "empresaId": "EMP-05",
+  "lat": -8.229717,
+  "lng": -79.065516,
+  "rpm": 2021,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0266",
+  "empresaId": "EMP-06",
+  "lat": -8.025034,
+  "lng": -78.931243,
+  "rpm": 2126,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0267",
+  "empresaId": "EMP-07",
+  "lat": -8.185436,
+  "lng": -79.017149,
+  "rpm": 1805,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0268",
+  "empresaId": "EMP-08",
+  "lat": -8.191425,
+  "lng": -78.995196,
+  "rpm": 2025,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0269",
+  "empresaId": "EMP-09",
+  "lat": -8.089353,
+  "lng": -79.119349,
+  "rpm": 2028,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0270",
+  "empresaId": "EMP-10",
+  "lat": -8.091389,
+  "lng": -79.170788,
+  "rpm": 2175,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0271",
+  "empresaId": "EMP-11",
+  "lat": -8.028616,
+  "lng": -79.137917,
+  "rpm": 1989,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0272",
+  "empresaId": "EMP-12",
+  "lat": -8.136351,
+  "lng": -79.078727,
+  "rpm": 1593,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0273",
+  "empresaId": "EMP-13",
+  "lat": -8.18175,
+  "lng": -78.913905,
+  "rpm": 1963,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0274",
+  "empresaId": "EMP-14",
+  "lat": -8.190011,
+  "lng": -79.008003,
+  "rpm": 2059,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0275",
+  "empresaId": "EMP-15",
+  "lat": -8.242524,
+  "lng": -78.904273,
+  "rpm": 1672,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0276",
+  "empresaId": "EMP-16",
+  "lat": -8.081148,
+  "lng": -79.142004,
+  "rpm": 1503,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0277",
+  "empresaId": "EMP-17",
+  "lat": -8.056078,
+  "lng": -79.06971,
+  "rpm": 2087,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0278",
+  "empresaId": "EMP-18",
+  "lat": -8.012374,
+  "lng": -79.123128,
+  "rpm": 2061,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0279",
+  "empresaId": "EMP-19",
+  "lat": -8.125295,
+  "lng": -79.057783,
+  "rpm": 2174,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0280",
+  "empresaId": "EMP-20",
+  "lat": -8.169305,
+  "lng": -78.97743,
+  "rpm": 1890,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0281",
+  "empresaId": "EMP-01",
+  "lat": -8.084031,
+  "lng": -78.937655,
+  "rpm": 1516,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0282",
+  "empresaId": "EMP-02",
+  "lat": -8.20174,
+  "lng": -79.038393,
+  "rpm": 1646,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0283",
+  "empresaId": "EMP-03",
+  "lat": -8.145687,
+  "lng": -79.007945,
+  "rpm": 1677,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0284",
+  "empresaId": "EMP-04",
+  "lat": -8.105669,
+  "lng": -79.099703,
+  "rpm": 2081,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0285",
+  "empresaId": "EMP-05",
+  "lat": -8.245558,
+  "lng": -78.943607,
+  "rpm": 2187,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0286",
+  "empresaId": "EMP-06",
+  "lat": -8.140647,
+  "lng": -79.029534,
+  "rpm": 1604,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0287",
+  "empresaId": "EMP-07",
+  "lat": -8.157966,
+  "lng": -78.909791,
+  "rpm": 2078,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0288",
+  "empresaId": "EMP-08",
+  "lat": -8.036085,
+  "lng": -79.033063,
+  "rpm": 1974,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0289",
+  "empresaId": "EMP-09",
+  "lat": -8.014065,
+  "lng": -79.143589,
+  "rpm": 1617,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0290",
+  "empresaId": "EMP-10",
+  "lat": -8.162491,
+  "lng": -79.022597,
+  "rpm": 1930,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0291",
+  "empresaId": "EMP-11",
+  "lat": -8.165393,
+  "lng": -79.162396,
+  "rpm": 2130,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0292",
+  "empresaId": "EMP-12",
+  "lat": -8.041998,
+  "lng": -78.999544,
+  "rpm": 1812,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0293",
+  "empresaId": "EMP-13",
+  "lat": -7.998483,
+  "lng": -79.105497,
+  "rpm": 1957,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0294",
+  "empresaId": "EMP-14",
+  "lat": -8.11081,
+  "lng": -79.059783,
+  "rpm": 1553,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0295",
+  "empresaId": "EMP-15",
+  "lat": -8.053129,
+  "lng": -79.020934,
+  "rpm": 1744,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0296",
+  "empresaId": "EMP-16",
+  "lat": -8.16971,
+  "lng": -79.060142,
+  "rpm": 1741,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0297",
+  "empresaId": "EMP-17",
+  "lat": -7.961817,
+  "lng": -78.959561,
+  "rpm": 2181,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0298",
+  "empresaId": "EMP-18",
+  "lat": -8.001653,
+  "lng": -79.052379,
+  "rpm": 1668,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0299",
+  "empresaId": "EMP-19",
+  "lat": -8.066748,
+  "lng": -79.052329,
+  "rpm": 1625,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0300",
+  "empresaId": "EMP-20",
+  "lat": -8.232031,
+  "lng": -78.941093,
+  "rpm": 1626,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0301",
+  "empresaId": "EMP-01",
+  "lat": -8.088834,
+  "lng": -79.042844,
+  "rpm": 1803,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0302",
+  "empresaId": "EMP-02",
+  "lat": -8.043146,
+  "lng": -79.171623,
+  "rpm": 1676,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0303",
+  "empresaId": "EMP-03",
+  "lat": -8.129369,
+  "lng": -79.043789,
+  "rpm": 2043,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0304",
+  "empresaId": "EMP-04",
+  "lat": -8.219216,
+  "lng": -78.971117,
+  "rpm": 1736,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0305",
+  "empresaId": "EMP-05",
+  "lat": -8.169733,
+  "lng": -79.042338,
+  "rpm": 1821,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0306",
+  "empresaId": "EMP-06",
+  "lat": -8.164295,
+  "lng": -79.135832,
+  "rpm": 1983,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0307",
+  "empresaId": "EMP-07",
+  "lat": -8.200792,
+  "lng": -78.921098,
+  "rpm": 1560,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0308",
+  "empresaId": "EMP-08",
+  "lat": -8.166837,
+  "lng": -78.921047,
+  "rpm": 1983,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0309",
+  "empresaId": "EMP-09",
+  "lat": -8.210034,
+  "lng": -78.914885,
+  "rpm": 2073,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0310",
+  "empresaId": "EMP-10",
+  "lat": -8.101671,
+  "lng": -79.107935,
+  "rpm": 1551,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0311",
+  "empresaId": "EMP-11",
+  "lat": -8.22977,
+  "lng": -78.961067,
+  "rpm": 1820,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0312",
+  "empresaId": "EMP-12",
+  "lat": -8.000724,
+  "lng": -78.964857,
+  "rpm": 1638,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0313",
+  "empresaId": "EMP-13",
+  "lat": -8.052815,
+  "lng": -78.897458,
+  "rpm": 1955,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0314",
+  "empresaId": "EMP-14",
+  "lat": -8.237903,
+  "lng": -79.111829,
+  "rpm": 1814,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0315",
+  "empresaId": "EMP-15",
+  "lat": -8.048439,
+  "lng": -79.11986,
+  "rpm": 1685,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0316",
+  "empresaId": "EMP-16",
+  "lat": -8.111172,
+  "lng": -79.090161,
+  "rpm": 1779,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0317",
+  "empresaId": "EMP-17",
+  "lat": -8.020486,
+  "lng": -79.021478,
+  "rpm": 1618,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0318",
+  "empresaId": "EMP-18",
+  "lat": -8.106826,
+  "lng": -78.88566,
+  "rpm": 1684,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0319",
+  "empresaId": "EMP-19",
+  "lat": -8.17855,
+  "lng": -78.986821,
+  "rpm": 1592,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0320",
+  "empresaId": "EMP-20",
+  "lat": -7.966692,
+  "lng": -79.046697,
+  "rpm": 2040,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0321",
+  "empresaId": "EMP-01",
+  "lat": -8.102356,
+  "lng": -79.165197,
+  "rpm": 2114,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0322",
+  "empresaId": "EMP-02",
+  "lat": -8.176238,
+  "lng": -79.103529,
+  "rpm": 2082,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0323",
+  "empresaId": "EMP-03",
+  "lat": -8.212246,
+  "lng": -78.882296,
+  "rpm": 1694,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0324",
+  "empresaId": "EMP-04",
+  "lat": -8.207801,
+  "lng": -78.958544,
+  "rpm": 1529,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0325",
+  "empresaId": "EMP-05",
+  "lat": -8.02449,
+  "lng": -79.133568,
+  "rpm": 1534,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0326",
+  "empresaId": "EMP-06",
+  "lat": -8.12311,
+  "lng": -78.953623,
+  "rpm": 1893,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0327",
+  "empresaId": "EMP-07",
+  "lat": -7.982821,
+  "lng": -79.02883,
+  "rpm": 1684,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0328",
+  "empresaId": "EMP-08",
+  "lat": -8.094798,
+  "lng": -78.98531,
+  "rpm": 1868,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0329",
+  "empresaId": "EMP-09",
+  "lat": -8.064121,
+  "lng": -78.943901,
+  "rpm": 2029,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0330",
+  "empresaId": "EMP-10",
+  "lat": -8.109911,
+  "lng": -78.925181,
+  "rpm": 2200,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0331",
+  "empresaId": "EMP-11",
+  "lat": -8.038291,
+  "lng": -79.019296,
+  "rpm": 2108,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0332",
+  "empresaId": "EMP-12",
+  "lat": -8.227967,
+  "lng": -79.048129,
+  "rpm": 2184,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0333",
+  "empresaId": "EMP-13",
+  "lat": -8.097253,
+  "lng": -79.101951,
+  "rpm": 1741,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0334",
+  "empresaId": "EMP-14",
+  "lat": -8.114865,
+  "lng": -79.112429,
+  "rpm": 2094,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0335",
+  "empresaId": "EMP-15",
+  "lat": -8.111911,
+  "lng": -79.1682,
+  "rpm": 2111,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0336",
+  "empresaId": "EMP-16",
+  "lat": -8.089808,
+  "lng": -78.916936,
+  "rpm": 1684,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0337",
+  "empresaId": "EMP-17",
+  "lat": -8.216057,
+  "lng": -79.173463,
+  "rpm": 2008,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0338",
+  "empresaId": "EMP-18",
+  "lat": -8.110486,
+  "lng": -78.961858,
+  "rpm": 1531,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0339",
+  "empresaId": "EMP-19",
+  "lat": -8.227313,
+  "lng": -79.125335,
+  "rpm": 2155,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0340",
+  "empresaId": "EMP-20",
+  "lat": -8.087753,
+  "lng": -78.962138,
+  "rpm": 2138,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0341",
+  "empresaId": "EMP-01",
+  "lat": -8.245406,
+  "lng": -79.051192,
+  "rpm": 1821,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0342",
+  "empresaId": "EMP-02",
+  "lat": -8.04006,
+  "lng": -78.944588,
+  "rpm": 2102,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0343",
+  "empresaId": "EMP-03",
+  "lat": -8.235057,
+  "lng": -78.932631,
+  "rpm": 1675,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0344",
+  "empresaId": "EMP-04",
+  "lat": -8.185149,
+  "lng": -79.130857,
+  "rpm": 2174,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0345",
+  "empresaId": "EMP-05",
+  "lat": -8.025589,
+  "lng": -79.160457,
+  "rpm": 1920,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0346",
+  "empresaId": "EMP-06",
+  "lat": -8.152274,
+  "lng": -79.113896,
+  "rpm": 1543,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0347",
+  "empresaId": "EMP-07",
+  "lat": -8.114739,
+  "lng": -78.950421,
+  "rpm": 1637,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0348",
+  "empresaId": "EMP-08",
+  "lat": -8.038219,
+  "lng": -79.022294,
+  "rpm": 1540,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0349",
+  "empresaId": "EMP-09",
+  "lat": -8.189414,
+  "lng": -78.911774,
+  "rpm": 1644,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0350",
+  "empresaId": "EMP-10",
+  "lat": -8.143724,
+  "lng": -79.08938,
+  "rpm": 1934,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0351",
+  "empresaId": "EMP-11",
+  "lat": -7.970108,
+  "lng": -78.974844,
+  "rpm": 2127,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0352",
+  "empresaId": "EMP-12",
+  "lat": -8.17289,
+  "lng": -79.143147,
+  "rpm": 1747,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0353",
+  "empresaId": "EMP-13",
+  "lat": -8.123133,
+  "lng": -78.899064,
+  "rpm": 1872,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0354",
+  "empresaId": "EMP-14",
+  "lat": -8.160486,
+  "lng": -78.884425,
+  "rpm": 2125,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0355",
+  "empresaId": "EMP-15",
+  "lat": -8.249698,
+  "lng": -79.057885,
+  "rpm": 2165,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0356",
+  "empresaId": "EMP-16",
+  "lat": -8.040371,
+  "lng": -79.008579,
+  "rpm": 2104,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0357",
+  "empresaId": "EMP-17",
+  "lat": -8.122821,
+  "lng": -79.060921,
+  "rpm": 1718,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0358",
+  "empresaId": "EMP-18",
+  "lat": -8.147982,
+  "lng": -79.164025,
+  "rpm": 1928,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0359",
+  "empresaId": "EMP-19",
+  "lat": -8.187653,
+  "lng": -78.940817,
+  "rpm": 1667,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0360",
+  "empresaId": "EMP-20",
+  "lat": -8.200507,
+  "lng": -79.114464,
+  "rpm": 1978,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0361",
+  "empresaId": "EMP-01",
+  "lat": -8.11983,
+  "lng": -79.031735,
+  "rpm": 2141,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0362",
+  "empresaId": "EMP-02",
+  "lat": -8.002783,
+  "lng": -79.117425,
+  "rpm": 1892,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0363",
+  "empresaId": "EMP-03",
+  "lat": -8.239765,
+  "lng": -78.971393,
+  "rpm": 1871,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0364",
+  "empresaId": "EMP-04",
+  "lat": -8.075309,
+  "lng": -79.023129,
+  "rpm": 1768,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0365",
+  "empresaId": "EMP-05",
+  "lat": -8.143712,
+  "lng": -78.901731,
+  "rpm": 1722,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0366",
+  "empresaId": "EMP-06",
+  "lat": -8.230577,
+  "lng": -79.161626,
+  "rpm": 1868,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0367",
+  "empresaId": "EMP-07",
+  "lat": -8.031894,
+  "lng": -78.961764,
+  "rpm": 1622,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0368",
+  "empresaId": "EMP-08",
+  "lat": -7.962204,
+  "lng": -78.927154,
+  "rpm": 1960,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0369",
+  "empresaId": "EMP-09",
+  "lat": -8.005235,
+  "lng": -79.064388,
+  "rpm": 1762,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0370",
+  "empresaId": "EMP-10",
+  "lat": -8.060834,
+  "lng": -79.088129,
+  "rpm": 2122,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0371",
+  "empresaId": "EMP-11",
+  "lat": -8.115072,
+  "lng": -79.122482,
+  "rpm": 2026,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0372",
+  "empresaId": "EMP-12",
+  "lat": -8.223308,
+  "lng": -79.116243,
+  "rpm": 1920,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0373",
+  "empresaId": "EMP-13",
+  "lat": -8.118013,
+  "lng": -78.970595,
+  "rpm": 2029,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0374",
+  "empresaId": "EMP-14",
+  "lat": -8.183483,
+  "lng": -78.961156,
+  "rpm": 2182,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0375",
+  "empresaId": "EMP-15",
+  "lat": -8.217443,
+  "lng": -79.117358,
+  "rpm": 1787,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0376",
+  "empresaId": "EMP-16",
+  "lat": -8.04777,
+  "lng": -79.057207,
+  "rpm": 1895,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0377",
+  "empresaId": "EMP-17",
+  "lat": -8.001809,
+  "lng": -79.110987,
+  "rpm": 1799,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0378",
+  "empresaId": "EMP-18",
+  "lat": -8.158113,
+  "lng": -79.114073,
+  "rpm": 1541,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0379",
+  "empresaId": "EMP-19",
+  "lat": -8.037469,
+  "lng": -79.033954,
+  "rpm": 1511,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0380",
+  "empresaId": "EMP-20",
+  "lat": -8.063474,
+  "lng": -79.158728,
+  "rpm": 1721,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0381",
+  "empresaId": "EMP-01",
+  "lat": -8.054837,
+  "lng": -78.978822,
+  "rpm": 1883,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0382",
+  "empresaId": "EMP-02",
+  "lat": -8.026607,
+  "lng": -79.100925,
+  "rpm": 1937,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0383",
+  "empresaId": "EMP-03",
+  "lat": -8.143868,
+  "lng": -79.160768,
+  "rpm": 1892,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0384",
+  "empresaId": "EMP-04",
+  "lat": -8.176231,
+  "lng": -78.967799,
+  "rpm": 1726,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0385",
+  "empresaId": "EMP-05",
+  "lat": -7.983953,
+  "lng": -79.118225,
+  "rpm": 1670,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0386",
+  "empresaId": "EMP-06",
+  "lat": -8.062039,
+  "lng": -79.106857,
+  "rpm": 1595,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0387",
+  "empresaId": "EMP-07",
+  "lat": -7.989346,
+  "lng": -78.937542,
+  "rpm": 1989,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0388",
+  "empresaId": "EMP-08",
+  "lat": -8.184499,
+  "lng": -78.92292,
+  "rpm": 1815,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0389",
+  "empresaId": "EMP-09",
+  "lat": -7.990841,
+  "lng": -79.142698,
+  "rpm": 1564,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0390",
+  "empresaId": "EMP-10",
+  "lat": -8.179999,
+  "lng": -79.065647,
+  "rpm": 2099,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0391",
+  "empresaId": "EMP-11",
+  "lat": -8.120918,
+  "lng": -79.081141,
+  "rpm": 1759,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0392",
+  "empresaId": "EMP-12",
+  "lat": -8.254542,
+  "lng": -79.074674,
+  "rpm": 1882,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0393",
+  "empresaId": "EMP-13",
+  "lat": -8.172407,
+  "lng": -78.934251,
+  "rpm": 1690,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0394",
+  "empresaId": "EMP-14",
+  "lat": -8.120826,
+  "lng": -78.994222,
+  "rpm": 1871,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0395",
+  "empresaId": "EMP-15",
+  "lat": -8.088749,
+  "lng": -78.896085,
+  "rpm": 1577,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0396",
+  "empresaId": "EMP-16",
+  "lat": -8.247297,
+  "lng": -79.015942,
+  "rpm": 2127,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0397",
+  "empresaId": "EMP-17",
+  "lat": -8.242512,
+  "lng": -79.158298,
+  "rpm": 1975,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0398",
+  "empresaId": "EMP-18",
+  "lat": -8.147037,
+  "lng": -78.905916,
+  "rpm": 1539,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0399",
+  "empresaId": "EMP-19",
+  "lat": -8.056572,
+  "lng": -79.096942,
+  "rpm": 2006,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0400",
+  "empresaId": "EMP-20",
+  "lat": -8.119688,
+  "lng": -79.17247,
+  "rpm": 2119,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0401",
+  "empresaId": "EMP-01",
+  "lat": -8.180664,
+  "lng": -79.101354,
+  "rpm": 1725,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0402",
+  "empresaId": "EMP-02",
+  "lat": -8.105422,
+  "lng": -78.900857,
+  "rpm": 1903,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0403",
+  "empresaId": "EMP-03",
+  "lat": -8.1898,
+  "lng": -79.030717,
+  "rpm": 2165,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0404",
+  "empresaId": "EMP-04",
+  "lat": -8.237887,
+  "lng": -78.931759,
+  "rpm": 1841,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0405",
+  "empresaId": "EMP-05",
+  "lat": -8.157599,
+  "lng": -78.9129,
+  "rpm": 1820,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0406",
+  "empresaId": "EMP-06",
+  "lat": -8.052984,
+  "lng": -78.972834,
+  "rpm": 1696,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0407",
+  "empresaId": "EMP-07",
+  "lat": -8.213759,
+  "lng": -78.992316,
+  "rpm": 2002,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0408",
+  "empresaId": "EMP-08",
+  "lat": -8.173497,
+  "lng": -79.05436,
+  "rpm": 1875,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0409",
+  "empresaId": "EMP-09",
+  "lat": -8.11209,
+  "lng": -78.984924,
+  "rpm": 1870,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0410",
+  "empresaId": "EMP-10",
+  "lat": -8.049747,
+  "lng": -78.903569,
+  "rpm": 1629,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0411",
+  "empresaId": "EMP-11",
+  "lat": -7.964849,
+  "lng": -78.93345,
+  "rpm": 1817,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0412",
+  "empresaId": "EMP-12",
+  "lat": -8.006913,
+  "lng": -79.025094,
+  "rpm": 2195,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0413",
+  "empresaId": "EMP-13",
+  "lat": -8.249488,
+  "lng": -78.992326,
+  "rpm": 1922,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0414",
+  "empresaId": "EMP-14",
+  "lat": -8.245568,
+  "lng": -79.102631,
+  "rpm": 2019,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0415",
+  "empresaId": "EMP-15",
+  "lat": -8.185717,
+  "lng": -78.988367,
+  "rpm": 1876,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0416",
+  "empresaId": "EMP-16",
+  "lat": -8.206526,
+  "lng": -78.921991,
+  "rpm": 1709,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0417",
+  "empresaId": "EMP-17",
+  "lat": -8.013038,
+  "lng": -79.008559,
+  "rpm": 1930,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0418",
+  "empresaId": "EMP-18",
+  "lat": -8.049522,
+  "lng": -78.991903,
+  "rpm": 1775,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0419",
+  "empresaId": "EMP-19",
+  "lat": -8.224034,
+  "lng": -79.065715,
+  "rpm": 2185,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0420",
+  "empresaId": "EMP-20",
+  "lat": -8.192288,
+  "lng": -79.123406,
+  "rpm": 1514,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0421",
+  "empresaId": "EMP-01",
+  "lat": -8.085942,
+  "lng": -78.896499,
+  "rpm": 1636,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0422",
+  "empresaId": "EMP-02",
+  "lat": -8.055324,
+  "lng": -79.053009,
+  "rpm": 2146,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0423",
+  "empresaId": "EMP-03",
+  "lat": -8.145601,
+  "lng": -78.97501,
+  "rpm": 1642,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0424",
+  "empresaId": "EMP-04",
+  "lat": -8.214408,
+  "lng": -78.879597,
+  "rpm": 1543,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0425",
+  "empresaId": "EMP-05",
+  "lat": -8.175788,
+  "lng": -78.959429,
+  "rpm": 1623,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0426",
+  "empresaId": "EMP-06",
+  "lat": -8.162583,
+  "lng": -79.170845,
+  "rpm": 2055,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0427",
+  "empresaId": "EMP-07",
+  "lat": -8.210231,
+  "lng": -79.158586,
+  "rpm": 1949,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0428",
+  "empresaId": "EMP-08",
+  "lat": -8.17648,
+  "lng": -79.061295,
+  "rpm": 2132,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0429",
+  "empresaId": "EMP-09",
+  "lat": -8.031988,
+  "lng": -78.884508,
+  "rpm": 1898,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0430",
+  "empresaId": "EMP-10",
+  "lat": -8.097816,
+  "lng": -78.93875,
+  "rpm": 1650,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0431",
+  "empresaId": "EMP-11",
+  "lat": -8.209075,
+  "lng": -79.146665,
+  "rpm": 1757,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0432",
+  "empresaId": "EMP-12",
+  "lat": -8.131813,
+  "lng": -79.133242,
+  "rpm": 1519,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0433",
+  "empresaId": "EMP-13",
+  "lat": -8.091824,
+  "lng": -79.135709,
+  "rpm": 2140,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0434",
+  "empresaId": "EMP-14",
+  "lat": -8.179396,
+  "lng": -79.110531,
+  "rpm": 1993,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0435",
+  "empresaId": "EMP-15",
+  "lat": -8.151847,
+  "lng": -79.100925,
+  "rpm": 1552,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0436",
+  "empresaId": "EMP-16",
+  "lat": -8.242287,
+  "lng": -78.911006,
+  "rpm": 1816,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0437",
+  "empresaId": "EMP-17",
+  "lat": -8.260394,
+  "lng": -79.077911,
+  "rpm": 1643,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0438",
+  "empresaId": "EMP-18",
+  "lat": -7.964108,
+  "lng": -79.056231,
+  "rpm": 1532,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0439",
+  "empresaId": "EMP-19",
+  "lat": -8.15618,
+  "lng": -79.010864,
+  "rpm": 2070,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0440",
+  "empresaId": "EMP-20",
+  "lat": -8.197116,
+  "lng": -78.993788,
+  "rpm": 2137,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0441",
+  "empresaId": "EMP-01",
+  "lat": -8.178468,
+  "lng": -78.897136,
+  "rpm": 1755,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0442",
+  "empresaId": "EMP-02",
+  "lat": -8.090224,
+  "lng": -78.89656,
+  "rpm": 1548,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0443",
+  "empresaId": "EMP-03",
+  "lat": -8.004418,
+  "lng": -78.89539,
+  "rpm": 2051,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0444",
+  "empresaId": "EMP-04",
+  "lat": -8.059149,
+  "lng": -79.097492,
+  "rpm": 1524,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0445",
+  "empresaId": "EMP-05",
+  "lat": -8.168598,
+  "lng": -79.024526,
+  "rpm": 1510,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0446",
+  "empresaId": "EMP-06",
+  "lat": -8.242489,
+  "lng": -79.069445,
+  "rpm": 2039,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0447",
+  "empresaId": "EMP-07",
+  "lat": -8.018566,
+  "lng": -78.941113,
+  "rpm": 2006,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0448",
+  "empresaId": "EMP-08",
+  "lat": -8.169216,
+  "lng": -79.019388,
+  "rpm": 2181,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0449",
+  "empresaId": "EMP-09",
+  "lat": -7.980759,
+  "lng": -79.034175,
+  "rpm": 1918,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0450",
+  "empresaId": "EMP-10",
+  "lat": -7.991896,
+  "lng": -78.991686,
+  "rpm": 1509,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0451",
+  "empresaId": "EMP-11",
+  "lat": -8.219365,
+  "lng": -79.081714,
+  "rpm": 1878,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0452",
+  "empresaId": "EMP-12",
+  "lat": -8.06451,
+  "lng": -78.935573,
+  "rpm": 1873,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0453",
+  "empresaId": "EMP-13",
+  "lat": -8.070192,
+  "lng": -79.072585,
+  "rpm": 1785,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0454",
+  "empresaId": "EMP-14",
+  "lat": -7.990056,
+  "lng": -79.082312,
+  "rpm": 1596,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0455",
+  "empresaId": "EMP-15",
+  "lat": -8.161159,
+  "lng": -78.95631,
+  "rpm": 1716,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0456",
+  "empresaId": "EMP-16",
+  "lat": -8.038641,
+  "lng": -79.014928,
+  "rpm": 2196,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0457",
+  "empresaId": "EMP-17",
+  "lat": -8.208412,
+  "lng": -79.147053,
+  "rpm": 1646,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0458",
+  "empresaId": "EMP-18",
+  "lat": -8.156499,
+  "lng": -79.049575,
+  "rpm": 1509,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0459",
+  "empresaId": "EMP-19",
+  "lat": -8.110829,
+  "lng": -79.057794,
+  "rpm": 1829,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0460",
+  "empresaId": "EMP-20",
+  "lat": -8.009642,
+  "lng": -78.950353,
+  "rpm": 1521,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0461",
+  "empresaId": "EMP-01",
+  "lat": -8.165332,
+  "lng": -78.95256,
+  "rpm": 1610,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0462",
+  "empresaId": "EMP-02",
+  "lat": -7.96535,
+  "lng": -79.049768,
+  "rpm": 1724,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0463",
+  "empresaId": "EMP-03",
+  "lat": -8.139135,
+  "lng": -78.966986,
+  "rpm": 1682,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0464",
+  "empresaId": "EMP-04",
+  "lat": -8.240615,
+  "lng": -79.061768,
+  "rpm": 1829,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0465",
+  "empresaId": "EMP-05",
+  "lat": -8.028296,
+  "lng": -79.021274,
+  "rpm": 1510,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0466",
+  "empresaId": "EMP-06",
+  "lat": -8.042539,
+  "lng": -78.980051,
+  "rpm": 2159,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0467",
+  "empresaId": "EMP-07",
+  "lat": -8.197913,
+  "lng": -78.993919,
+  "rpm": 1950,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0468",
+  "empresaId": "EMP-08",
+  "lat": -8.134402,
+  "lng": -78.887995,
+  "rpm": 1616,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0469",
+  "empresaId": "EMP-09",
+  "lat": -8.010355,
+  "lng": -78.971849,
+  "rpm": 1964,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0470",
+  "empresaId": "EMP-10",
+  "lat": -8.061964,
+  "lng": -79.052989,
+  "rpm": 1893,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0471",
+  "empresaId": "EMP-11",
+  "lat": -8.192592,
+  "lng": -78.9986,
+  "rpm": 2086,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0472",
+  "empresaId": "EMP-12",
+  "lat": -8.10703,
+  "lng": -79.169138,
+  "rpm": 2142,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0473",
+  "empresaId": "EMP-13",
+  "lat": -8.127556,
+  "lng": -79.00079,
+  "rpm": 2108,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0474",
+  "empresaId": "EMP-14",
+  "lat": -7.982117,
+  "lng": -79.133221,
+  "rpm": 1979,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0475",
+  "empresaId": "EMP-15",
+  "lat": -7.963738,
+  "lng": -78.957402,
+  "rpm": 1820,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0476",
+  "empresaId": "EMP-16",
+  "lat": -8.040575,
+  "lng": -78.881975,
+  "rpm": 1911,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0477",
+  "empresaId": "EMP-17",
+  "lat": -8.001358,
+  "lng": -79.140793,
+  "rpm": 2002,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0478",
+  "empresaId": "EMP-18",
+  "lat": -8.191364,
+  "lng": -78.926735,
+  "rpm": 2164,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0479",
+  "empresaId": "EMP-19",
+  "lat": -8.012816,
+  "lng": -78.939498,
+  "rpm": 2023,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0480",
+  "empresaId": "EMP-20",
+  "lat": -7.963495,
+  "lng": -79.159353,
+  "rpm": 1539,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0481",
+  "empresaId": "EMP-01",
+  "lat": -8.186387,
+  "lng": -78.936649,
+  "rpm": 1964,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0482",
+  "empresaId": "EMP-02",
+  "lat": -8.100704,
+  "lng": -78.919135,
+  "rpm": 1700,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0483",
+  "empresaId": "EMP-03",
+  "lat": -8.177714,
+  "lng": -78.985688,
+  "rpm": 1575,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0484",
+  "empresaId": "EMP-04",
+  "lat": -8.095101,
+  "lng": -78.942661,
+  "rpm": 2002,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0485",
+  "empresaId": "EMP-05",
+  "lat": -8.239952,
+  "lng": -79.029804,
+  "rpm": 1557,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0486",
+  "empresaId": "EMP-06",
+  "lat": -7.969787,
+  "lng": -79.159083,
+  "rpm": 1655,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0487",
+  "empresaId": "EMP-07",
+  "lat": -8.20804,
+  "lng": -79.078675,
+  "rpm": 1854,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0488",
+  "empresaId": "EMP-08",
+  "lat": -8.011437,
+  "lng": -79.143578,
+  "rpm": 1686,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0489",
+  "empresaId": "EMP-09",
+  "lat": -8.14501,
+  "lng": -78.92404,
+  "rpm": 2131,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0490",
+  "empresaId": "EMP-10",
+  "lat": -7.991062,
+  "lng": -79.157235,
+  "rpm": 2164,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0491",
+  "empresaId": "EMP-11",
+  "lat": -8.101926,
+  "lng": -79.083879,
+  "rpm": 1701,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0492",
+  "empresaId": "EMP-12",
+  "lat": -8.06108,
+  "lng": -79.04957,
+  "rpm": 1515,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0493",
+  "empresaId": "EMP-13",
+  "lat": -8.051643,
+  "lng": -78.925404,
+  "rpm": 1785,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0494",
+  "empresaId": "EMP-14",
+  "lat": -8.199026,
+  "lng": -79.115925,
+  "rpm": 1631,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0495",
+  "empresaId": "EMP-15",
+  "lat": -8.053473,
+  "lng": -79.038861,
+  "rpm": 1632,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0496",
+  "empresaId": "EMP-16",
+  "lat": -8.226793,
+  "lng": -78.896491,
+  "rpm": 2124,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0497",
+  "empresaId": "EMP-17",
+  "lat": -8.154338,
+  "lng": -79.119953,
+  "rpm": 1570,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0498",
+  "empresaId": "EMP-18",
+  "lat": -8.040723,
+  "lng": -79.070703,
+  "rpm": 1817,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0499",
+  "empresaId": "EMP-19",
+  "lat": -8.201543,
+  "lng": -79.157365,
+  "rpm": 1772,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0500",
+  "empresaId": "EMP-20",
+  "lat": -8.149216,
+  "lng": -78.99498,
+  "rpm": 1785,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0501",
+  "empresaId": "EMP-01",
+  "lat": -8.221468,
+  "lng": -79.141726,
+  "rpm": 1597,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0502",
+  "empresaId": "EMP-02",
+  "lat": -8.10745,
+  "lng": -79.053441,
+  "rpm": 2004,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0503",
+  "empresaId": "EMP-03",
+  "lat": -8.226332,
+  "lng": -79.141846,
+  "rpm": 1793,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0504",
+  "empresaId": "EMP-04",
+  "lat": -8.058595,
+  "lng": -79.042321,
+  "rpm": 1988,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0505",
+  "empresaId": "EMP-05",
+  "lat": -8.201982,
+  "lng": -79.054589,
+  "rpm": 1725,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0506",
+  "empresaId": "EMP-06",
+  "lat": -8.069703,
+  "lng": -79.068682,
+  "rpm": 1841,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0507",
+  "empresaId": "EMP-07",
+  "lat": -8.086312,
+  "lng": -78.98125,
+  "rpm": 1774,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0508",
+  "empresaId": "EMP-08",
+  "lat": -8.063083,
+  "lng": -79.174993,
+  "rpm": 2125,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0509",
+  "empresaId": "EMP-09",
+  "lat": -8.257062,
+  "lng": -79.06635,
+  "rpm": 2107,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0510",
+  "empresaId": "EMP-10",
+  "lat": -8.145172,
+  "lng": -79.095304,
+  "rpm": 1604,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0511",
+  "empresaId": "EMP-11",
+  "lat": -8.230292,
+  "lng": -78.981569,
+  "rpm": 1964,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0512",
+  "empresaId": "EMP-12",
+  "lat": -8.235084,
+  "lng": -79.069725,
+  "rpm": 1883,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0513",
+  "empresaId": "EMP-13",
+  "lat": -8.04468,
+  "lng": -78.978044,
+  "rpm": 1852,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0514",
+  "empresaId": "EMP-14",
+  "lat": -8.061209,
+  "lng": -79.132089,
+  "rpm": 1574,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0515",
+  "empresaId": "EMP-15",
+  "lat": -8.210475,
+  "lng": -79.027074,
+  "rpm": 1991,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0516",
+  "empresaId": "EMP-16",
+  "lat": -8.079937,
+  "lng": -78.887678,
+  "rpm": 1521,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0517",
+  "empresaId": "EMP-17",
+  "lat": -8.131589,
+  "lng": -79.109814,
+  "rpm": 2054,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0518",
+  "empresaId": "EMP-18",
+  "lat": -7.962311,
+  "lng": -79.158835,
+  "rpm": 1973,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0519",
+  "empresaId": "EMP-19",
+  "lat": -8.141213,
+  "lng": -78.98198,
+  "rpm": 1723,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0520",
+  "empresaId": "EMP-20",
+  "lat": -7.964673,
+  "lng": -79.115972,
+  "rpm": 1878,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0521",
+  "empresaId": "EMP-01",
+  "lat": -8.106931,
+  "lng": -79.150025,
+  "rpm": 1585,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0522",
+  "empresaId": "EMP-02",
+  "lat": -8.211545,
+  "lng": -78.984115,
+  "rpm": 2137,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0523",
+  "empresaId": "EMP-03",
+  "lat": -8.062592,
+  "lng": -78.887833,
+  "rpm": 1985,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0524",
+  "empresaId": "EMP-04",
+  "lat": -8.131658,
+  "lng": -79.132059,
+  "rpm": 1879,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0525",
+  "empresaId": "EMP-05",
+  "lat": -7.978239,
+  "lng": -78.910055,
+  "rpm": 1524,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0526",
+  "empresaId": "EMP-06",
+  "lat": -8.156268,
+  "lng": -79.018035,
+  "rpm": 2046,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0527",
+  "empresaId": "EMP-07",
+  "lat": -8.028731,
+  "lng": -79.150519,
+  "rpm": 2019,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0528",
+  "empresaId": "EMP-08",
+  "lat": -8.224223,
+  "lng": -79.008438,
+  "rpm": 1632,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0529",
+  "empresaId": "EMP-09",
+  "lat": -8.108688,
+  "lng": -79.086262,
+  "rpm": 1861,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0530",
+  "empresaId": "EMP-10",
+  "lat": -8.187567,
+  "lng": -79.054623,
+  "rpm": 1555,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0531",
+  "empresaId": "EMP-11",
+  "lat": -8.084939,
+  "lng": -79.127742,
+  "rpm": 1607,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0532",
+  "empresaId": "EMP-12",
+  "lat": -8.220304,
+  "lng": -78.909233,
+  "rpm": 2015,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0533",
+  "empresaId": "EMP-13",
+  "lat": -8.218412,
+  "lng": -79.009499,
+  "rpm": 1677,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0534",
+  "empresaId": "EMP-14",
+  "lat": -8.076197,
+  "lng": -78.889771,
+  "rpm": 1621,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0535",
+  "empresaId": "EMP-15",
+  "lat": -8.014918,
+  "lng": -79.110135,
+  "rpm": 1612,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0536",
+  "empresaId": "EMP-16",
+  "lat": -8.214634,
+  "lng": -79.019478,
+  "rpm": 1529,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0537",
+  "empresaId": "EMP-17",
+  "lat": -8.228524,
+  "lng": -79.088573,
+  "rpm": 2056,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0538",
+  "empresaId": "EMP-18",
+  "lat": -8.032848,
+  "lng": -78.946121,
+  "rpm": 1899,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0539",
+  "empresaId": "EMP-19",
+  "lat": -8.171755,
+  "lng": -79.114402,
+  "rpm": 2049,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0540",
+  "empresaId": "EMP-20",
+  "lat": -8.064454,
+  "lng": -79.053034,
+  "rpm": 2000,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0541",
+  "empresaId": "EMP-01",
+  "lat": -8.065393,
+  "lng": -78.912795,
+  "rpm": 1641,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0542",
+  "empresaId": "EMP-02",
+  "lat": -7.967133,
+  "lng": -78.900679,
+  "rpm": 1599,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0543",
+  "empresaId": "EMP-03",
+  "lat": -8.073902,
+  "lng": -79.098575,
+  "rpm": 2114,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0544",
+  "empresaId": "EMP-04",
+  "lat": -8.195585,
+  "lng": -79.153463,
+  "rpm": 1988,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0545",
+  "empresaId": "EMP-05",
+  "lat": -8.154056,
+  "lng": -79.049652,
+  "rpm": 1961,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0546",
+  "empresaId": "EMP-06",
+  "lat": -8.24673,
+  "lng": -78.928105,
+  "rpm": 1563,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0547",
+  "empresaId": "EMP-07",
+  "lat": -8.103238,
+  "lng": -79.014537,
+  "rpm": 1909,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0548",
+  "empresaId": "EMP-08",
+  "lat": -8.059088,
+  "lng": -78.964864,
+  "rpm": 1533,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0549",
+  "empresaId": "EMP-09",
+  "lat": -8.15372,
+  "lng": -78.893507,
+  "rpm": 2032,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0550",
+  "empresaId": "EMP-10",
+  "lat": -8.115379,
+  "lng": -79.176112,
+  "rpm": 1916,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0551",
+  "empresaId": "EMP-11",
+  "lat": -7.97171,
+  "lng": -79.176677,
+  "rpm": 2107,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0552",
+  "empresaId": "EMP-12",
+  "lat": -7.97336,
+  "lng": -79.069109,
+  "rpm": 2112,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0553",
+  "empresaId": "EMP-13",
+  "lat": -8.009575,
+  "lng": -79.115862,
+  "rpm": 2103,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0554",
+  "empresaId": "EMP-14",
+  "lat": -8.16706,
+  "lng": -79.02951,
+  "rpm": 2028,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0555",
+  "empresaId": "EMP-15",
+  "lat": -8.245687,
+  "lng": -79.15095,
+  "rpm": 1758,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0556",
+  "empresaId": "EMP-16",
+  "lat": -8.180564,
+  "lng": -78.940105,
+  "rpm": 1935,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0557",
+  "empresaId": "EMP-17",
+  "lat": -8.003584,
+  "lng": -79.058113,
+  "rpm": 1792,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0558",
+  "empresaId": "EMP-18",
+  "lat": -8.057633,
+  "lng": -79.153161,
+  "rpm": 1730,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0559",
+  "empresaId": "EMP-19",
+  "lat": -8.163144,
+  "lng": -79.083592,
+  "rpm": 1659,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0560",
+  "empresaId": "EMP-20",
+  "lat": -8.068919,
+  "lng": -79.161778,
+  "rpm": 2002,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0561",
+  "empresaId": "EMP-01",
+  "lat": -8.143037,
+  "lng": -79.153662,
+  "rpm": 1641,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0562",
+  "empresaId": "EMP-02",
+  "lat": -8.069994,
+  "lng": -79.172096,
+  "rpm": 2199,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0563",
+  "empresaId": "EMP-03",
+  "lat": -8.087651,
+  "lng": -79.177126,
+  "rpm": 1990,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0564",
+  "empresaId": "EMP-04",
+  "lat": -8.160963,
+  "lng": -78.991175,
+  "rpm": 1576,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0565",
+  "empresaId": "EMP-05",
+  "lat": -8.027181,
+  "lng": -79.046644,
+  "rpm": 1643,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0566",
+  "empresaId": "EMP-06",
+  "lat": -8.034524,
+  "lng": -78.975644,
+  "rpm": 1620,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0567",
+  "empresaId": "EMP-07",
+  "lat": -8.165624,
+  "lng": -78.958393,
+  "rpm": 1573,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0568",
+  "empresaId": "EMP-08",
+  "lat": -7.974629,
+  "lng": -79.072023,
+  "rpm": 2061,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0569",
+  "empresaId": "EMP-09",
+  "lat": -8.050703,
+  "lng": -79.059649,
+  "rpm": 2168,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0570",
+  "empresaId": "EMP-10",
+  "lat": -8.227437,
+  "lng": -78.918418,
+  "rpm": 1599,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0571",
+  "empresaId": "EMP-11",
+  "lat": -8.164357,
+  "lng": -79.136804,
+  "rpm": 1626,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0572",
+  "empresaId": "EMP-12",
+  "lat": -7.999487,
+  "lng": -79.037081,
+  "rpm": 1532,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0573",
+  "empresaId": "EMP-13",
+  "lat": -7.98246,
+  "lng": -79.118713,
+  "rpm": 2006,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0574",
+  "empresaId": "EMP-14",
+  "lat": -8.130577,
+  "lng": -78.939198,
+  "rpm": 2023,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0575",
+  "empresaId": "EMP-15",
+  "lat": -8.230033,
+  "lng": -78.956097,
+  "rpm": 1670,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0576",
+  "empresaId": "EMP-16",
+  "lat": -8.164378,
+  "lng": -79.174379,
+  "rpm": 1667,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0577",
+  "empresaId": "EMP-17",
+  "lat": -8.156675,
+  "lng": -79.001379,
+  "rpm": 2032,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0578",
+  "empresaId": "EMP-18",
+  "lat": -8.125762,
+  "lng": -79.002158,
+  "rpm": 1973,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0579",
+  "empresaId": "EMP-19",
+  "lat": -8.030337,
+  "lng": -79.13445,
+  "rpm": 1905,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0580",
+  "empresaId": "EMP-20",
+  "lat": -8.234477,
+  "lng": -79.031947,
+  "rpm": 2147,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0581",
+  "empresaId": "EMP-01",
+  "lat": -8.156335,
+  "lng": -79.055554,
+  "rpm": 1546,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0582",
+  "empresaId": "EMP-02",
+  "lat": -7.985089,
+  "lng": -78.937994,
+  "rpm": 1760,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0583",
+  "empresaId": "EMP-03",
+  "lat": -8.188631,
+  "lng": -79.114795,
+  "rpm": 2132,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0584",
+  "empresaId": "EMP-04",
+  "lat": -8.093741,
+  "lng": -78.886077,
+  "rpm": 2043,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0585",
+  "empresaId": "EMP-05",
+  "lat": -8.145582,
+  "lng": -79.143537,
+  "rpm": 1690,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0586",
+  "empresaId": "EMP-06",
+  "lat": -8.230909,
+  "lng": -79.086835,
+  "rpm": 1653,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0587",
+  "empresaId": "EMP-07",
+  "lat": -7.963575,
+  "lng": -79.073217,
+  "rpm": 1663,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0588",
+  "empresaId": "EMP-08",
+  "lat": -8.114534,
+  "lng": -79.031928,
+  "rpm": 1957,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0589",
+  "empresaId": "EMP-09",
+  "lat": -8.019875,
+  "lng": -79.149496,
+  "rpm": 1659,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0590",
+  "empresaId": "EMP-10",
+  "lat": -7.965783,
+  "lng": -78.920453,
+  "rpm": 2124,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0591",
+  "empresaId": "EMP-11",
+  "lat": -8.225358,
+  "lng": -78.949334,
+  "rpm": 2096,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0592",
+  "empresaId": "EMP-12",
+  "lat": -7.991785,
+  "lng": -78.901619,
+  "rpm": 1832,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0593",
+  "empresaId": "EMP-13",
+  "lat": -8.228918,
+  "lng": -78.942527,
+  "rpm": 1797,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0594",
+  "empresaId": "EMP-14",
+  "lat": -8.004316,
+  "lng": -78.960737,
+  "rpm": 1771,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0595",
+  "empresaId": "EMP-15",
+  "lat": -8.18684,
+  "lng": -79.172701,
+  "rpm": 2050,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0596",
+  "empresaId": "EMP-16",
+  "lat": -8.061269,
+  "lng": -79.092858,
+  "rpm": 2074,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0597",
+  "empresaId": "EMP-17",
+  "lat": -8.182814,
+  "lng": -79.156074,
+  "rpm": 1529,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0598",
+  "empresaId": "EMP-18",
+  "lat": -8.023514,
+  "lng": -78.895771,
+  "rpm": 1655,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0599",
+  "empresaId": "EMP-19",
+  "lat": -8.213569,
+  "lng": -78.920916,
+  "rpm": 1634,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0600",
+  "empresaId": "EMP-20",
+  "lat": -8.234799,
+  "lng": -78.938733,
+  "rpm": 1666,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0601",
+  "empresaId": "EMP-01",
+  "lat": -8.036485,
+  "lng": -78.967981,
+  "rpm": 2103,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0602",
+  "empresaId": "EMP-02",
+  "lat": -8.183644,
+  "lng": -79.162501,
+  "rpm": 1871,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0603",
+  "empresaId": "EMP-03",
+  "lat": -8.025415,
+  "lng": -79.108772,
+  "rpm": 1963,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0604",
+  "empresaId": "EMP-04",
+  "lat": -8.157908,
+  "lng": -79.113951,
+  "rpm": 2155,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0605",
+  "empresaId": "EMP-05",
+  "lat": -8.180383,
+  "lng": -78.960811,
+  "rpm": 1737,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0606",
+  "empresaId": "EMP-06",
+  "lat": -7.976639,
+  "lng": -79.145723,
+  "rpm": 2172,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0607",
+  "empresaId": "EMP-07",
+  "lat": -8.170901,
+  "lng": -79.177998,
+  "rpm": 2079,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0608",
+  "empresaId": "EMP-08",
+  "lat": -8.20301,
+  "lng": -79.068574,
+  "rpm": 1862,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0609",
+  "empresaId": "EMP-09",
+  "lat": -8.24317,
+  "lng": -78.978893,
+  "rpm": 1569,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0610",
+  "empresaId": "EMP-10",
+  "lat": -8.252698,
+  "lng": -79.007523,
+  "rpm": 2033,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0611",
+  "empresaId": "EMP-11",
+  "lat": -8.238442,
+  "lng": -79.020701,
+  "rpm": 1689,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0612",
+  "empresaId": "EMP-12",
+  "lat": -8.103589,
+  "lng": -79.07253,
+  "rpm": 2010,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0613",
+  "empresaId": "EMP-13",
+  "lat": -7.99771,
+  "lng": -79.148279,
+  "rpm": 1642,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0614",
+  "empresaId": "EMP-14",
+  "lat": -8.20373,
+  "lng": -78.970754,
+  "rpm": 1530,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0615",
+  "empresaId": "EMP-15",
+  "lat": -7.979618,
+  "lng": -78.909234,
+  "rpm": 1591,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0616",
+  "empresaId": "EMP-16",
+  "lat": -7.991781,
+  "lng": -79.101981,
+  "rpm": 1724,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0617",
+  "empresaId": "EMP-17",
+  "lat": -7.979934,
+  "lng": -78.885992,
+  "rpm": 1658,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0618",
+  "empresaId": "EMP-18",
+  "lat": -7.981111,
+  "lng": -79.172745,
+  "rpm": 2001,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0619",
+  "empresaId": "EMP-19",
+  "lat": -7.962637,
+  "lng": -79.007375,
+  "rpm": 2127,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0620",
+  "empresaId": "EMP-20",
+  "lat": -7.981625,
+  "lng": -79.15288,
+  "rpm": 2031,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0621",
+  "empresaId": "EMP-01",
+  "lat": -7.973758,
+  "lng": -79.169246,
+  "rpm": 1614,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0622",
+  "empresaId": "EMP-02",
+  "lat": -8.000885,
+  "lng": -78.891651,
+  "rpm": 1524,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0623",
+  "empresaId": "EMP-03",
+  "lat": -8.252012,
+  "lng": -78.929876,
+  "rpm": 2119,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0624",
+  "empresaId": "EMP-04",
+  "lat": -8.007619,
+  "lng": -78.9488,
+  "rpm": 2186,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0625",
+  "empresaId": "EMP-05",
+  "lat": -8.261396,
+  "lng": -79.158427,
+  "rpm": 1721,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0626",
+  "empresaId": "EMP-06",
+  "lat": -8.011585,
+  "lng": -79.056512,
+  "rpm": 1843,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0627",
+  "empresaId": "EMP-07",
+  "lat": -8.157579,
+  "lng": -79.174315,
+  "rpm": 1747,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0628",
+  "empresaId": "EMP-08",
+  "lat": -8.247256,
+  "lng": -79.067892,
+  "rpm": 1843,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0629",
+  "empresaId": "EMP-09",
+  "lat": -8.05913,
+  "lng": -79.042329,
+  "rpm": 1740,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0630",
+  "empresaId": "EMP-10",
+  "lat": -8.208889,
+  "lng": -79.13381,
+  "rpm": 1759,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0631",
+  "empresaId": "EMP-11",
+  "lat": -8.117901,
+  "lng": -78.943702,
+  "rpm": 1840,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0632",
+  "empresaId": "EMP-12",
+  "lat": -8.190125,
+  "lng": -78.982495,
+  "rpm": 1766,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0633",
+  "empresaId": "EMP-13",
+  "lat": -8.104773,
+  "lng": -79.102322,
+  "rpm": 1522,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0634",
+  "empresaId": "EMP-14",
+  "lat": -8.168347,
+  "lng": -79.159067,
+  "rpm": 2021,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0635",
+  "empresaId": "EMP-15",
+  "lat": -8.039788,
+  "lng": -79.117487,
+  "rpm": 1535,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0636",
+  "empresaId": "EMP-16",
+  "lat": -8.099575,
+  "lng": -79.155228,
+  "rpm": 2015,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0637",
+  "empresaId": "EMP-17",
+  "lat": -8.129117,
+  "lng": -79.165324,
+  "rpm": 2070,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0638",
+  "empresaId": "EMP-18",
+  "lat": -8.150379,
+  "lng": -79.071862,
+  "rpm": 1574,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0639",
+  "empresaId": "EMP-19",
+  "lat": -7.961607,
+  "lng": -79.053069,
+  "rpm": 2186,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0640",
+  "empresaId": "EMP-20",
+  "lat": -8.160153,
+  "lng": -78.941671,
+  "rpm": 1888,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0641",
+  "empresaId": "EMP-01",
+  "lat": -8.092927,
+  "lng": -78.895617,
+  "rpm": 1569,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0642",
+  "empresaId": "EMP-02",
+  "lat": -7.96929,
+  "lng": -78.905241,
+  "rpm": 1553,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0643",
+  "empresaId": "EMP-03",
+  "lat": -8.251729,
+  "lng": -78.892535,
+  "rpm": 1935,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0644",
+  "empresaId": "EMP-04",
+  "lat": -8.21856,
+  "lng": -79.117124,
+  "rpm": 2004,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0645",
+  "empresaId": "EMP-05",
+  "lat": -7.982156,
+  "lng": -79.076226,
+  "rpm": 1639,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0646",
+  "empresaId": "EMP-06",
+  "lat": -8.020527,
+  "lng": -79.082961,
+  "rpm": 1543,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0647",
+  "empresaId": "EMP-07",
+  "lat": -8.190409,
+  "lng": -78.968308,
+  "rpm": 1742,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0648",
+  "empresaId": "EMP-08",
+  "lat": -8.151394,
+  "lng": -78.960756,
+  "rpm": 1779,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0649",
+  "empresaId": "EMP-09",
+  "lat": -7.979936,
+  "lng": -79.157304,
+  "rpm": 1689,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0650",
+  "empresaId": "EMP-10",
+  "lat": -8.058696,
+  "lng": -79.141861,
+  "rpm": 1828,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0651",
+  "empresaId": "EMP-11",
+  "lat": -8.086862,
+  "lng": -79.096635,
+  "rpm": 2034,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0652",
+  "empresaId": "EMP-12",
+  "lat": -8.016773,
+  "lng": -79.046063,
+  "rpm": 2039,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0653",
+  "empresaId": "EMP-13",
+  "lat": -7.977462,
+  "lng": -79.154355,
+  "rpm": 1728,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0654",
+  "empresaId": "EMP-14",
+  "lat": -8.238592,
+  "lng": -79.085978,
+  "rpm": 2193,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0655",
+  "empresaId": "EMP-15",
+  "lat": -8.205815,
+  "lng": -78.889259,
+  "rpm": 2153,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0656",
+  "empresaId": "EMP-16",
+  "lat": -8.23015,
+  "lng": -79.033707,
+  "rpm": 2112,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0657",
+  "empresaId": "EMP-17",
+  "lat": -8.156511,
+  "lng": -78.879592,
+  "rpm": 2000,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0658",
+  "empresaId": "EMP-18",
+  "lat": -8.249897,
+  "lng": -79.134584,
+  "rpm": 1980,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0659",
+  "empresaId": "EMP-19",
+  "lat": -8.129929,
+  "lng": -79.003475,
+  "rpm": 2056,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0660",
+  "empresaId": "EMP-20",
+  "lat": -8.177072,
+  "lng": -79.16515,
+  "rpm": 1910,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0661",
+  "empresaId": "EMP-01",
+  "lat": -7.973242,
+  "lng": -79.171525,
+  "rpm": 1934,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0662",
+  "empresaId": "EMP-02",
+  "lat": -8.077941,
+  "lng": -79.159857,
+  "rpm": 1525,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0663",
+  "empresaId": "EMP-03",
+  "lat": -8.158995,
+  "lng": -79.1289,
+  "rpm": 1542,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0664",
+  "empresaId": "EMP-04",
+  "lat": -8.183426,
+  "lng": -78.993173,
+  "rpm": 1878,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0665",
+  "empresaId": "EMP-05",
+  "lat": -8.186374,
+  "lng": -78.955939,
+  "rpm": 1670,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0666",
+  "empresaId": "EMP-06",
+  "lat": -8.2185,
+  "lng": -79.005003,
+  "rpm": 2127,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0667",
+  "empresaId": "EMP-07",
+  "lat": -8.132714,
+  "lng": -79.002734,
+  "rpm": 1762,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0668",
+  "empresaId": "EMP-08",
+  "lat": -7.97678,
+  "lng": -79.03135,
+  "rpm": 2193,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0669",
+  "empresaId": "EMP-09",
+  "lat": -8.005706,
+  "lng": -78.914204,
+  "rpm": 1666,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0670",
+  "empresaId": "EMP-10",
+  "lat": -8.108944,
+  "lng": -78.883435,
+  "rpm": 1795,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0671",
+  "empresaId": "EMP-11",
+  "lat": -7.981449,
+  "lng": -79.084744,
+  "rpm": 2068,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0672",
+  "empresaId": "EMP-12",
+  "lat": -8.1405,
+  "lng": -78.96818,
+  "rpm": 1847,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0673",
+  "empresaId": "EMP-13",
+  "lat": -8.069923,
+  "lng": -78.988644,
+  "rpm": 1503,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0674",
+  "empresaId": "EMP-14",
+  "lat": -8.117759,
+  "lng": -79.145177,
+  "rpm": 2026,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0675",
+  "empresaId": "EMP-15",
+  "lat": -8.147917,
+  "lng": -79.178306,
+  "rpm": 2008,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0676",
+  "empresaId": "EMP-16",
+  "lat": -8.180877,
+  "lng": -79.006538,
+  "rpm": 2147,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0677",
+  "empresaId": "EMP-17",
+  "lat": -8.122923,
+  "lng": -79.151818,
+  "rpm": 2009,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0678",
+  "empresaId": "EMP-18",
+  "lat": -8.117063,
+  "lng": -78.986411,
+  "rpm": 1527,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0679",
+  "empresaId": "EMP-19",
+  "lat": -8.100049,
+  "lng": -79.163716,
+  "rpm": 1786,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0680",
+  "empresaId": "EMP-20",
+  "lat": -8.191257,
+  "lng": -78.930081,
+  "rpm": 1542,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0681",
+  "empresaId": "EMP-01",
+  "lat": -8.203129,
+  "lng": -78.988844,
+  "rpm": 1604,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0682",
+  "empresaId": "EMP-02",
+  "lat": -8.155672,
+  "lng": -79.161346,
+  "rpm": 1574,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0683",
+  "empresaId": "EMP-03",
+  "lat": -8.003791,
+  "lng": -79.133356,
+  "rpm": 1823,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0684",
+  "empresaId": "EMP-04",
+  "lat": -8.110717,
+  "lng": -78.900904,
+  "rpm": 2162,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0685",
+  "empresaId": "EMP-05",
+  "lat": -8.054719,
+  "lng": -79.044971,
+  "rpm": 1805,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0686",
+  "empresaId": "EMP-06",
+  "lat": -8.056064,
+  "lng": -78.939572,
+  "rpm": 1780,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0687",
+  "empresaId": "EMP-07",
+  "lat": -8.021217,
+  "lng": -79.125933,
+  "rpm": 1987,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0688",
+  "empresaId": "EMP-08",
+  "lat": -8.047294,
+  "lng": -79.165542,
+  "rpm": 1523,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0689",
+  "empresaId": "EMP-09",
+  "lat": -8.064224,
+  "lng": -79.037529,
+  "rpm": 2159,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0690",
+  "empresaId": "EMP-10",
+  "lat": -8.058982,
+  "lng": -79.058856,
+  "rpm": 2159,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0691",
+  "empresaId": "EMP-11",
+  "lat": -7.9687,
+  "lng": -79.130871,
+  "rpm": 1765,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0692",
+  "empresaId": "EMP-12",
+  "lat": -8.000194,
+  "lng": -79.085611,
+  "rpm": 1690,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0693",
+  "empresaId": "EMP-13",
+  "lat": -8.053328,
+  "lng": -78.951367,
+  "rpm": 2137,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0694",
+  "empresaId": "EMP-14",
+  "lat": -8.224017,
+  "lng": -78.960786,
+  "rpm": 1559,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0695",
+  "empresaId": "EMP-15",
+  "lat": -8.001282,
+  "lng": -78.948207,
+  "rpm": 1502,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0696",
+  "empresaId": "EMP-16",
+  "lat": -8.182266,
+  "lng": -79.030678,
+  "rpm": 2003,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0697",
+  "empresaId": "EMP-17",
+  "lat": -8.146258,
+  "lng": -79.072784,
+  "rpm": 1523,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0698",
+  "empresaId": "EMP-18",
+  "lat": -8.111629,
+  "lng": -78.885035,
+  "rpm": 1736,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0699",
+  "empresaId": "EMP-19",
+  "lat": -8.076106,
+  "lng": -79.143493,
+  "rpm": 1656,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0700",
+  "empresaId": "EMP-20",
+  "lat": -8.13221,
+  "lng": -79.03877,
+  "rpm": 1691,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0701",
+  "empresaId": "EMP-01",
+  "lat": -8.067248,
+  "lng": -78.972915,
+  "rpm": 1605,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0702",
+  "empresaId": "EMP-02",
+  "lat": -8.163065,
+  "lng": -79.162513,
+  "rpm": 1527,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0703",
+  "empresaId": "EMP-03",
+  "lat": -8.101742,
+  "lng": -79.004595,
+  "rpm": 1810,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0704",
+  "empresaId": "EMP-04",
+  "lat": -8.029358,
+  "lng": -79.078817,
+  "rpm": 1786,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0705",
+  "empresaId": "EMP-05",
+  "lat": -8.104835,
+  "lng": -79.032445,
+  "rpm": 1536,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0706",
+  "empresaId": "EMP-06",
+  "lat": -8.002847,
+  "lng": -79.018163,
+  "rpm": 1984,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0707",
+  "empresaId": "EMP-07",
+  "lat": -8.186665,
+  "lng": -79.119029,
+  "rpm": 2094,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0708",
+  "empresaId": "EMP-08",
+  "lat": -8.189203,
+  "lng": -79.080549,
+  "rpm": 1571,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0709",
+  "empresaId": "EMP-09",
+  "lat": -8.245949,
+  "lng": -79.072207,
+  "rpm": 2039,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0710",
+  "empresaId": "EMP-10",
+  "lat": -8.10215,
+  "lng": -79.11416,
+  "rpm": 1741,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0711",
+  "empresaId": "EMP-11",
+  "lat": -7.98664,
+  "lng": -79.155081,
+  "rpm": 1939,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0712",
+  "empresaId": "EMP-12",
+  "lat": -8.118803,
+  "lng": -79.054018,
+  "rpm": 2144,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0713",
+  "empresaId": "EMP-13",
+  "lat": -8.019007,
+  "lng": -78.901393,
+  "rpm": 2012,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0714",
+  "empresaId": "EMP-14",
+  "lat": -8.085721,
+  "lng": -79.052899,
+  "rpm": 1512,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0715",
+  "empresaId": "EMP-15",
+  "lat": -8.235414,
+  "lng": -79.124238,
+  "rpm": 1558,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0716",
+  "empresaId": "EMP-16",
+  "lat": -8.216504,
+  "lng": -79.013414,
+  "rpm": 1779,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0717",
+  "empresaId": "EMP-17",
+  "lat": -8.043565,
+  "lng": -79.083013,
+  "rpm": 2163,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0718",
+  "empresaId": "EMP-18",
+  "lat": -8.049808,
+  "lng": -79.04181,
+  "rpm": 1942,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0719",
+  "empresaId": "EMP-19",
+  "lat": -7.976038,
+  "lng": -79.120646,
+  "rpm": 1758,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0720",
+  "empresaId": "EMP-20",
+  "lat": -8.096484,
+  "lng": -79.178164,
+  "rpm": 1975,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0721",
+  "empresaId": "EMP-01",
+  "lat": -8.130319,
+  "lng": -79.140446,
+  "rpm": 1935,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0722",
+  "empresaId": "EMP-02",
+  "lat": -8.089647,
+  "lng": -78.955526,
+  "rpm": 1912,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0723",
+  "empresaId": "EMP-03",
+  "lat": -8.189613,
+  "lng": -78.919799,
+  "rpm": 1918,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0724",
+  "empresaId": "EMP-04",
+  "lat": -8.235521,
+  "lng": -79.009605,
+  "rpm": 1751,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0725",
+  "empresaId": "EMP-05",
+  "lat": -8.090505,
+  "lng": -79.058006,
+  "rpm": 1892,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0726",
+  "empresaId": "EMP-06",
+  "lat": -8.038703,
+  "lng": -78.959673,
+  "rpm": 2133,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0727",
+  "empresaId": "EMP-07",
+  "lat": -8.199214,
+  "lng": -79.105242,
+  "rpm": 1998,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0728",
+  "empresaId": "EMP-08",
+  "lat": -7.999472,
+  "lng": -78.900962,
+  "rpm": 2153,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0729",
+  "empresaId": "EMP-09",
+  "lat": -8.160897,
+  "lng": -79.172206,
+  "rpm": 2021,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0730",
+  "empresaId": "EMP-10",
+  "lat": -8.13847,
+  "lng": -79.059155,
+  "rpm": 1696,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0731",
+  "empresaId": "EMP-11",
+  "lat": -8.251435,
+  "lng": -79.151058,
+  "rpm": 1774,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0732",
+  "empresaId": "EMP-12",
+  "lat": -8.199487,
+  "lng": -78.979991,
+  "rpm": 1709,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0733",
+  "empresaId": "EMP-13",
+  "lat": -8.131047,
+  "lng": -79.115434,
+  "rpm": 1523,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0734",
+  "empresaId": "EMP-14",
+  "lat": -7.999835,
+  "lng": -78.99219,
+  "rpm": 1591,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0735",
+  "empresaId": "EMP-15",
+  "lat": -8.0411,
+  "lng": -78.991141,
+  "rpm": 2063,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0736",
+  "empresaId": "EMP-16",
+  "lat": -8.063815,
+  "lng": -78.975442,
+  "rpm": 2016,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0737",
+  "empresaId": "EMP-17",
+  "lat": -7.995768,
+  "lng": -79.156314,
+  "rpm": 1732,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0738",
+  "empresaId": "EMP-18",
+  "lat": -8.192973,
+  "lng": -78.997546,
+  "rpm": 2112,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0739",
+  "empresaId": "EMP-19",
+  "lat": -7.962637,
+  "lng": -79.042371,
+  "rpm": 1717,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0740",
+  "empresaId": "EMP-20",
+  "lat": -8.172075,
+  "lng": -78.998583,
+  "rpm": 1587,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0741",
+  "empresaId": "EMP-01",
+  "lat": -8.085555,
+  "lng": -78.96068,
+  "rpm": 2076,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0742",
+  "empresaId": "EMP-02",
+  "lat": -8.256581,
+  "lng": -79.05396,
+  "rpm": 1936,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0743",
+  "empresaId": "EMP-03",
+  "lat": -8.234504,
+  "lng": -79.064868,
+  "rpm": 1907,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0744",
+  "empresaId": "EMP-04",
+  "lat": -7.963498,
+  "lng": -79.11981,
+  "rpm": 1944,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0745",
+  "empresaId": "EMP-05",
+  "lat": -8.112155,
+  "lng": -79.163315,
+  "rpm": 1720,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0746",
+  "empresaId": "EMP-06",
+  "lat": -8.144225,
+  "lng": -79.001695,
+  "rpm": 1847,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0747",
+  "empresaId": "EMP-07",
+  "lat": -8.087925,
+  "lng": -79.10333,
+  "rpm": 2197,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0748",
+  "empresaId": "EMP-08",
+  "lat": -8.139322,
+  "lng": -79.131664,
+  "rpm": 1525,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0749",
+  "empresaId": "EMP-09",
+  "lat": -8.035782,
+  "lng": -79.003418,
+  "rpm": 2021,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0750",
+  "empresaId": "EMP-10",
+  "lat": -8.179268,
+  "lng": -79.008654,
+  "rpm": 2040,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0751",
+  "empresaId": "EMP-11",
+  "lat": -8.163489,
+  "lng": -78.902063,
+  "rpm": 2006,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0752",
+  "empresaId": "EMP-12",
+  "lat": -8.174857,
+  "lng": -78.936991,
+  "rpm": 1930,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0753",
+  "empresaId": "EMP-13",
+  "lat": -8.23217,
+  "lng": -79.164339,
+  "rpm": 1973,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0754",
+  "empresaId": "EMP-14",
+  "lat": -8.094434,
+  "lng": -79.046907,
+  "rpm": 1523,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0755",
+  "empresaId": "EMP-15",
+  "lat": -8.155811,
+  "lng": -78.951124,
+  "rpm": 1577,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0756",
+  "empresaId": "EMP-16",
+  "lat": -8.171483,
+  "lng": -78.971222,
+  "rpm": 1872,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0757",
+  "empresaId": "EMP-17",
+  "lat": -8.147548,
+  "lng": -79.096711,
+  "rpm": 1867,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0758",
+  "empresaId": "EMP-18",
+  "lat": -8.100402,
+  "lng": -79.171552,
+  "rpm": 1883,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0759",
+  "empresaId": "EMP-19",
+  "lat": -8.064427,
+  "lng": -79.134219,
+  "rpm": 1818,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0760",
+  "empresaId": "EMP-20",
+  "lat": -7.999814,
+  "lng": -78.898734,
+  "rpm": 1755,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0761",
+  "empresaId": "EMP-01",
+  "lat": -8.208222,
+  "lng": -79.143485,
+  "rpm": 1587,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0762",
+  "empresaId": "EMP-02",
+  "lat": -8.02338,
+  "lng": -78.957101,
+  "rpm": 1770,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0763",
+  "empresaId": "EMP-03",
+  "lat": -8.114868,
+  "lng": -78.970185,
+  "rpm": 1528,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0764",
+  "empresaId": "EMP-04",
+  "lat": -8.003741,
+  "lng": -79.115409,
+  "rpm": 1871,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0765",
+  "empresaId": "EMP-05",
+  "lat": -8.160482,
+  "lng": -78.915273,
+  "rpm": 1723,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0766",
+  "empresaId": "EMP-06",
+  "lat": -8.051216,
+  "lng": -79.170507,
+  "rpm": 2083,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0767",
+  "empresaId": "EMP-07",
+  "lat": -8.078814,
+  "lng": -78.882697,
+  "rpm": 1728,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0768",
+  "empresaId": "EMP-08",
+  "lat": -8.194781,
+  "lng": -78.992892,
+  "rpm": 1653,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0769",
+  "empresaId": "EMP-09",
+  "lat": -7.972326,
+  "lng": -79.076427,
+  "rpm": 1950,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0770",
+  "empresaId": "EMP-10",
+  "lat": -8.208914,
+  "lng": -79.12411,
+  "rpm": 2106,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0771",
+  "empresaId": "EMP-11",
+  "lat": -8.119665,
+  "lng": -78.997418,
+  "rpm": 1856,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0772",
+  "empresaId": "EMP-12",
+  "lat": -8.03064,
+  "lng": -79.083248,
+  "rpm": 1731,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0773",
+  "empresaId": "EMP-13",
+  "lat": -8.152317,
+  "lng": -79.110174,
+  "rpm": 2184,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0774",
+  "empresaId": "EMP-14",
+  "lat": -8.006566,
+  "lng": -78.955154,
+  "rpm": 2196,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0775",
+  "empresaId": "EMP-15",
+  "lat": -7.979282,
+  "lng": -79.171474,
+  "rpm": 1831,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0776",
+  "empresaId": "EMP-16",
+  "lat": -8.083549,
+  "lng": -78.950294,
+  "rpm": 2003,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0777",
+  "empresaId": "EMP-17",
+  "lat": -8.101614,
+  "lng": -79.062832,
+  "rpm": 1604,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0778",
+  "empresaId": "EMP-18",
+  "lat": -8.255328,
+  "lng": -78.969708,
+  "rpm": 1680,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0779",
+  "empresaId": "EMP-19",
+  "lat": -8.179801,
+  "lng": -78.978692,
+  "rpm": 2194,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0780",
+  "empresaId": "EMP-20",
+  "lat": -8.245485,
+  "lng": -78.944948,
+  "rpm": 1726,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0781",
+  "empresaId": "EMP-01",
+  "lat": -8.255441,
+  "lng": -79.103904,
+  "rpm": 1503,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0782",
+  "empresaId": "EMP-02",
+  "lat": -7.984454,
+  "lng": -79.088882,
+  "rpm": 1515,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0783",
+  "empresaId": "EMP-03",
+  "lat": -8.152323,
+  "lng": -79.053857,
+  "rpm": 1676,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0784",
+  "empresaId": "EMP-04",
+  "lat": -8.209681,
+  "lng": -79.130057,
+  "rpm": 1598,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0785",
+  "empresaId": "EMP-05",
+  "lat": -8.058377,
+  "lng": -79.12182,
+  "rpm": 2058,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0786",
+  "empresaId": "EMP-06",
+  "lat": -8.021715,
+  "lng": -79.045526,
+  "rpm": 2012,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0787",
+  "empresaId": "EMP-07",
+  "lat": -8.137652,
+  "lng": -79.061799,
+  "rpm": 2016,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0788",
+  "empresaId": "EMP-08",
+  "lat": -8.121018,
+  "lng": -79.020125,
+  "rpm": 2045,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0789",
+  "empresaId": "EMP-09",
+  "lat": -8.176094,
+  "lng": -79.089943,
+  "rpm": 1901,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0790",
+  "empresaId": "EMP-10",
+  "lat": -8.067227,
+  "lng": -79.167027,
+  "rpm": 1967,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0791",
+  "empresaId": "EMP-11",
+  "lat": -8.105051,
+  "lng": -79.068552,
+  "rpm": 2070,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0792",
+  "empresaId": "EMP-12",
+  "lat": -8.054087,
+  "lng": -78.955437,
+  "rpm": 1965,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0793",
+  "empresaId": "EMP-13",
+  "lat": -8.142379,
+  "lng": -79.012939,
+  "rpm": 2094,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0794",
+  "empresaId": "EMP-14",
+  "lat": -7.986502,
+  "lng": -78.928169,
+  "rpm": 1576,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0795",
+  "empresaId": "EMP-15",
+  "lat": -8.187522,
+  "lng": -78.8875,
+  "rpm": 2056,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0796",
+  "empresaId": "EMP-16",
+  "lat": -8.107156,
+  "lng": -79.08585,
+  "rpm": 1796,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0797",
+  "empresaId": "EMP-17",
+  "lat": -8.154568,
+  "lng": -78.892266,
+  "rpm": 2044,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0798",
+  "empresaId": "EMP-18",
+  "lat": -8.257583,
+  "lng": -79.134321,
+  "rpm": 1898,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0799",
+  "empresaId": "EMP-19",
+  "lat": -8.036357,
+  "lng": -79.044502,
+  "rpm": 1945,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0800",
+  "empresaId": "EMP-20",
+  "lat": -8.032893,
+  "lng": -79.001232,
+  "rpm": 2096,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0801",
+  "empresaId": "EMP-01",
+  "lat": -8.241019,
+  "lng": -78.955425,
+  "rpm": 1748,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0802",
+  "empresaId": "EMP-02",
+  "lat": -8.196563,
+  "lng": -79.044709,
+  "rpm": 2056,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0803",
+  "empresaId": "EMP-03",
+  "lat": -7.964691,
+  "lng": -78.902295,
+  "rpm": 2129,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0804",
+  "empresaId": "EMP-04",
+  "lat": -8.257915,
+  "lng": -78.962341,
+  "rpm": 1719,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0805",
+  "empresaId": "EMP-05",
+  "lat": -8.239767,
+  "lng": -78.950233,
+  "rpm": 1841,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0806",
+  "empresaId": "EMP-06",
+  "lat": -7.974257,
+  "lng": -79.011172,
+  "rpm": 1603,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0807",
+  "empresaId": "EMP-07",
+  "lat": -8.206404,
+  "lng": -79.122324,
+  "rpm": 1729,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0808",
+  "empresaId": "EMP-08",
+  "lat": -8.244434,
+  "lng": -79.168535,
+  "rpm": 1643,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0809",
+  "empresaId": "EMP-09",
+  "lat": -8.071298,
+  "lng": -78.956735,
+  "rpm": 1984,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0810",
+  "empresaId": "EMP-10",
+  "lat": -7.974183,
+  "lng": -79.082409,
+  "rpm": 1765,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0811",
+  "empresaId": "EMP-11",
+  "lat": -8.165726,
+  "lng": -79.144248,
+  "rpm": 1506,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0812",
+  "empresaId": "EMP-12",
+  "lat": -8.001828,
+  "lng": -79.087584,
+  "rpm": 2172,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0813",
+  "empresaId": "EMP-13",
+  "lat": -8.145299,
+  "lng": -78.984443,
+  "rpm": 1925,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0814",
+  "empresaId": "EMP-14",
+  "lat": -8.065128,
+  "lng": -79.16824,
+  "rpm": 2105,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0815",
+  "empresaId": "EMP-15",
+  "lat": -8.180464,
+  "lng": -79.118804,
+  "rpm": 1584,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0816",
+  "empresaId": "EMP-16",
+  "lat": -8.186083,
+  "lng": -78.970291,
+  "rpm": 1890,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0817",
+  "empresaId": "EMP-17",
+  "lat": -7.980861,
+  "lng": -78.979191,
+  "rpm": 1622,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0818",
+  "empresaId": "EMP-18",
+  "lat": -8.060696,
+  "lng": -78.990443,
+  "rpm": 1892,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0819",
+  "empresaId": "EMP-19",
+  "lat": -8.113559,
+  "lng": -79.161136,
+  "rpm": 2003,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0820",
+  "empresaId": "EMP-20",
+  "lat": -8.146381,
+  "lng": -79.019512,
+  "rpm": 1549,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0821",
+  "empresaId": "EMP-01",
+  "lat": -8.253222,
+  "lng": -78.883938,
+  "rpm": 1880,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0822",
+  "empresaId": "EMP-02",
+  "lat": -8.162593,
+  "lng": -79.1343,
+  "rpm": 2106,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0823",
+  "empresaId": "EMP-03",
+  "lat": -7.987188,
+  "lng": -79.124689,
+  "rpm": 2012,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0824",
+  "empresaId": "EMP-04",
+  "lat": -8.11169,
+  "lng": -78.949053,
+  "rpm": 2078,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0825",
+  "empresaId": "EMP-05",
+  "lat": -8.189938,
+  "lng": -79.121902,
+  "rpm": 1543,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0826",
+  "empresaId": "EMP-06",
+  "lat": -8.098814,
+  "lng": -78.890616,
+  "rpm": 1633,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0827",
+  "empresaId": "EMP-07",
+  "lat": -8.146539,
+  "lng": -79.111182,
+  "rpm": 1946,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0828",
+  "empresaId": "EMP-08",
+  "lat": -8.148893,
+  "lng": -79.129838,
+  "rpm": 1872,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0829",
+  "empresaId": "EMP-09",
+  "lat": -8.156379,
+  "lng": -79.158671,
+  "rpm": 1783,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0830",
+  "empresaId": "EMP-10",
+  "lat": -8.077056,
+  "lng": -78.909928,
+  "rpm": 1747,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0831",
+  "empresaId": "EMP-11",
+  "lat": -8.147308,
+  "lng": -79.152849,
+  "rpm": 1547,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0832",
+  "empresaId": "EMP-12",
+  "lat": -8.007686,
+  "lng": -78.998325,
+  "rpm": 1538,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0833",
+  "empresaId": "EMP-13",
+  "lat": -8.227833,
+  "lng": -79.092797,
+  "rpm": 1695,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0834",
+  "empresaId": "EMP-14",
+  "lat": -8.227954,
+  "lng": -79.118634,
+  "rpm": 2155,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0835",
+  "empresaId": "EMP-15",
+  "lat": -8.211168,
+  "lng": -79.128208,
+  "rpm": 2048,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0836",
+  "empresaId": "EMP-16",
+  "lat": -8.138669,
+  "lng": -79.065348,
+  "rpm": 2020,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0837",
+  "empresaId": "EMP-17",
+  "lat": -8.145195,
+  "lng": -79.036511,
+  "rpm": 1540,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0838",
+  "empresaId": "EMP-18",
+  "lat": -8.25317,
+  "lng": -78.936858,
+  "rpm": 1509,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0839",
+  "empresaId": "EMP-19",
+  "lat": -7.995286,
+  "lng": -79.002511,
+  "rpm": 1901,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0840",
+  "empresaId": "EMP-20",
+  "lat": -8.099045,
+  "lng": -78.896838,
+  "rpm": 1635,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0841",
+  "empresaId": "EMP-01",
+  "lat": -8.146572,
+  "lng": -78.966382,
+  "rpm": 1881,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0842",
+  "empresaId": "EMP-02",
+  "lat": -7.989133,
+  "lng": -79.166541,
+  "rpm": 1791,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0843",
+  "empresaId": "EMP-03",
+  "lat": -8.173755,
+  "lng": -78.953732,
+  "rpm": 1601,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0844",
+  "empresaId": "EMP-04",
+  "lat": -8.205888,
+  "lng": -79.060789,
+  "rpm": 1849,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0845",
+  "empresaId": "EMP-05",
+  "lat": -8.227795,
+  "lng": -78.884874,
+  "rpm": 1925,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0846",
+  "empresaId": "EMP-06",
+  "lat": -8.084414,
+  "lng": -78.975799,
+  "rpm": 2090,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0847",
+  "empresaId": "EMP-07",
+  "lat": -7.994788,
+  "lng": -79.095588,
+  "rpm": 1739,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0848",
+  "empresaId": "EMP-08",
+  "lat": -8.064845,
+  "lng": -78.890698,
+  "rpm": 1647,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0849",
+  "empresaId": "EMP-09",
+  "lat": -8.140491,
+  "lng": -79.009577,
+  "rpm": 1634,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0850",
+  "empresaId": "EMP-10",
+  "lat": -8.242956,
+  "lng": -78.990173,
+  "rpm": 1786,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0851",
+  "empresaId": "EMP-11",
+  "lat": -8.164752,
+  "lng": -78.996751,
+  "rpm": 1696,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0852",
+  "empresaId": "EMP-12",
+  "lat": -8.127347,
+  "lng": -78.921636,
+  "rpm": 1530,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0853",
+  "empresaId": "EMP-13",
+  "lat": -8.205491,
+  "lng": -79.026956,
+  "rpm": 2120,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0854",
+  "empresaId": "EMP-14",
+  "lat": -8.098919,
+  "lng": -79.099958,
+  "rpm": 1889,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0855",
+  "empresaId": "EMP-15",
+  "lat": -8.07928,
+  "lng": -78.958744,
+  "rpm": 1617,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0856",
+  "empresaId": "EMP-16",
+  "lat": -8.055313,
+  "lng": -78.990628,
+  "rpm": 2156,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0857",
+  "empresaId": "EMP-17",
+  "lat": -8.120867,
+  "lng": -79.026679,
+  "rpm": 1527,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0858",
+  "empresaId": "EMP-18",
+  "lat": -8.132227,
+  "lng": -78.90301,
+  "rpm": 1993,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0859",
+  "empresaId": "EMP-19",
+  "lat": -8.044814,
+  "lng": -78.921795,
+  "rpm": 2188,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0860",
+  "empresaId": "EMP-20",
+  "lat": -8.181146,
+  "lng": -79.010234,
+  "rpm": 1747,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0861",
+  "empresaId": "EMP-01",
+  "lat": -8.044533,
+  "lng": -78.944374,
+  "rpm": 2051,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0862",
+  "empresaId": "EMP-02",
+  "lat": -8.21601,
+  "lng": -78.943958,
+  "rpm": 1707,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0863",
+  "empresaId": "EMP-03",
+  "lat": -8.076625,
+  "lng": -79.130174,
+  "rpm": 1536,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0864",
+  "empresaId": "EMP-04",
+  "lat": -8.137404,
+  "lng": -79.123822,
+  "rpm": 1699,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0865",
+  "empresaId": "EMP-05",
+  "lat": -8.05961,
+  "lng": -79.071178,
+  "rpm": 2161,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0866",
+  "empresaId": "EMP-06",
+  "lat": -8.150839,
+  "lng": -78.898795,
+  "rpm": 1642,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0867",
+  "empresaId": "EMP-07",
+  "lat": -8.058677,
+  "lng": -79.101951,
+  "rpm": 1761,
+  "temperatura": 92
+ },
+ {
+  "equipoId": "EQ-0868",
+  "empresaId": "EMP-08",
+  "lat": -8.124914,
+  "lng": -78.927857,
+  "rpm": 1615,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0869",
+  "empresaId": "EMP-09",
+  "lat": -8.069119,
+  "lng": -79.171119,
+  "rpm": 1734,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0870",
+  "empresaId": "EMP-10",
+  "lat": -8.252661,
+  "lng": -79.130314,
+  "rpm": 1565,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0871",
+  "empresaId": "EMP-11",
+  "lat": -8.102136,
+  "lng": -79.140371,
+  "rpm": 2117,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0872",
+  "empresaId": "EMP-12",
+  "lat": -7.986043,
+  "lng": -79.066949,
+  "rpm": 2165,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0873",
+  "empresaId": "EMP-13",
+  "lat": -7.9964,
+  "lng": -79.012568,
+  "rpm": 2096,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0874",
+  "empresaId": "EMP-14",
+  "lat": -8.002677,
+  "lng": -78.97564,
+  "rpm": 1834,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0875",
+  "empresaId": "EMP-15",
+  "lat": -8.128385,
+  "lng": -79.092986,
+  "rpm": 1934,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0876",
+  "empresaId": "EMP-16",
+  "lat": -8.198189,
+  "lng": -79.046384,
+  "rpm": 1769,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0877",
+  "empresaId": "EMP-17",
+  "lat": -8.081144,
+  "lng": -79.025962,
+  "rpm": 2022,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0878",
+  "empresaId": "EMP-18",
+  "lat": -8.24397,
+  "lng": -79.139337,
+  "rpm": 2121,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0879",
+  "empresaId": "EMP-19",
+  "lat": -8.056988,
+  "lng": -78.88164,
+  "rpm": 1797,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0880",
+  "empresaId": "EMP-20",
+  "lat": -8.124895,
+  "lng": -79.02708,
+  "rpm": 1786,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0881",
+  "empresaId": "EMP-01",
+  "lat": -7.973352,
+  "lng": -78.973157,
+  "rpm": 1907,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0882",
+  "empresaId": "EMP-02",
+  "lat": -8.005164,
+  "lng": -79.154588,
+  "rpm": 1620,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0883",
+  "empresaId": "EMP-03",
+  "lat": -8.051121,
+  "lng": -79.018768,
+  "rpm": 2194,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0884",
+  "empresaId": "EMP-04",
+  "lat": -8.128381,
+  "lng": -79.008145,
+  "rpm": 1600,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0885",
+  "empresaId": "EMP-05",
+  "lat": -8.192525,
+  "lng": -79.134361,
+  "rpm": 2165,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0886",
+  "empresaId": "EMP-06",
+  "lat": -8.168355,
+  "lng": -79.063655,
+  "rpm": 1718,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0887",
+  "empresaId": "EMP-07",
+  "lat": -8.260625,
+  "lng": -79.128158,
+  "rpm": 1645,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0888",
+  "empresaId": "EMP-08",
+  "lat": -8.2129,
+  "lng": -79.144786,
+  "rpm": 1565,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0889",
+  "empresaId": "EMP-09",
+  "lat": -8.059065,
+  "lng": -79.114648,
+  "rpm": 1956,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0890",
+  "empresaId": "EMP-10",
+  "lat": -8.080087,
+  "lng": -79.163528,
+  "rpm": 1549,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0891",
+  "empresaId": "EMP-11",
+  "lat": -8.050075,
+  "lng": -79.051366,
+  "rpm": 1576,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0892",
+  "empresaId": "EMP-12",
+  "lat": -8.095761,
+  "lng": -78.88606,
+  "rpm": 1840,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0893",
+  "empresaId": "EMP-13",
+  "lat": -8.141105,
+  "lng": -78.902664,
+  "rpm": 1711,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0894",
+  "empresaId": "EMP-14",
+  "lat": -7.98823,
+  "lng": -79.125253,
+  "rpm": 2006,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0895",
+  "empresaId": "EMP-15",
+  "lat": -8.169541,
+  "lng": -79.053429,
+  "rpm": 2158,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0896",
+  "empresaId": "EMP-16",
+  "lat": -8.135836,
+  "lng": -79.131621,
+  "rpm": 1968,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0897",
+  "empresaId": "EMP-17",
+  "lat": -8.20741,
+  "lng": -79.160654,
+  "rpm": 1926,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0898",
+  "empresaId": "EMP-18",
+  "lat": -8.016643,
+  "lng": -79.10722,
+  "rpm": 2059,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0899",
+  "empresaId": "EMP-19",
+  "lat": -7.976589,
+  "lng": -78.919321,
+  "rpm": 1754,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0900",
+  "empresaId": "EMP-20",
+  "lat": -8.096023,
+  "lng": -79.083567,
+  "rpm": 1672,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0901",
+  "empresaId": "EMP-01",
+  "lat": -8.038479,
+  "lng": -78.950998,
+  "rpm": 1844,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0902",
+  "empresaId": "EMP-02",
+  "lat": -8.000992,
+  "lng": -78.897715,
+  "rpm": 1729,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0903",
+  "empresaId": "EMP-03",
+  "lat": -8.242815,
+  "lng": -79.025982,
+  "rpm": 1736,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0904",
+  "empresaId": "EMP-04",
+  "lat": -8.188567,
+  "lng": -79.052467,
+  "rpm": 2159,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0905",
+  "empresaId": "EMP-05",
+  "lat": -8.152234,
+  "lng": -79.068119,
+  "rpm": 1680,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0906",
+  "empresaId": "EMP-06",
+  "lat": -7.969217,
+  "lng": -78.997142,
+  "rpm": 1631,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0907",
+  "empresaId": "EMP-07",
+  "lat": -8.050801,
+  "lng": -78.999425,
+  "rpm": 2127,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0908",
+  "empresaId": "EMP-08",
+  "lat": -8.023629,
+  "lng": -78.944108,
+  "rpm": 1942,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0909",
+  "empresaId": "EMP-09",
+  "lat": -8.190693,
+  "lng": -78.88497,
+  "rpm": 1920,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0910",
+  "empresaId": "EMP-10",
+  "lat": -8.224605,
+  "lng": -79.103713,
+  "rpm": 1976,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0911",
+  "empresaId": "EMP-11",
+  "lat": -8.093318,
+  "lng": -79.098304,
+  "rpm": 2192,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0912",
+  "empresaId": "EMP-12",
+  "lat": -8.008513,
+  "lng": -79.062981,
+  "rpm": 2158,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0913",
+  "empresaId": "EMP-13",
+  "lat": -8.186229,
+  "lng": -79.084189,
+  "rpm": 1603,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0914",
+  "empresaId": "EMP-14",
+  "lat": -7.985212,
+  "lng": -79.087984,
+  "rpm": 1887,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0915",
+  "empresaId": "EMP-15",
+  "lat": -8.226489,
+  "lng": -79.136139,
+  "rpm": 2153,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0916",
+  "empresaId": "EMP-16",
+  "lat": -7.993992,
+  "lng": -79.153612,
+  "rpm": 1760,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0917",
+  "empresaId": "EMP-17",
+  "lat": -8.193835,
+  "lng": -78.915495,
+  "rpm": 1861,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0918",
+  "empresaId": "EMP-18",
+  "lat": -7.978861,
+  "lng": -78.93865,
+  "rpm": 1934,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0919",
+  "empresaId": "EMP-19",
+  "lat": -8.169955,
+  "lng": -79.034904,
+  "rpm": 1714,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0920",
+  "empresaId": "EMP-20",
+  "lat": -8.090699,
+  "lng": -78.945153,
+  "rpm": 2008,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0921",
+  "empresaId": "EMP-01",
+  "lat": -8.25803,
+  "lng": -79.053002,
+  "rpm": 1584,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0922",
+  "empresaId": "EMP-02",
+  "lat": -8.095384,
+  "lng": -79.106148,
+  "rpm": 1978,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0923",
+  "empresaId": "EMP-03",
+  "lat": -8.115248,
+  "lng": -79.083217,
+  "rpm": 2028,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0924",
+  "empresaId": "EMP-04",
+  "lat": -8.130103,
+  "lng": -79.101451,
+  "rpm": 1636,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0925",
+  "empresaId": "EMP-05",
+  "lat": -8.074959,
+  "lng": -78.951729,
+  "rpm": 2200,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0926",
+  "empresaId": "EMP-06",
+  "lat": -8.224572,
+  "lng": -79.076263,
+  "rpm": 2144,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0927",
+  "empresaId": "EMP-07",
+  "lat": -8.208723,
+  "lng": -78.981936,
+  "rpm": 2015,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0928",
+  "empresaId": "EMP-08",
+  "lat": -8.20798,
+  "lng": -78.993734,
+  "rpm": 1806,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0929",
+  "empresaId": "EMP-09",
+  "lat": -8.088215,
+  "lng": -78.909655,
+  "rpm": 1580,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0930",
+  "empresaId": "EMP-10",
+  "lat": -8.067873,
+  "lng": -79.036905,
+  "rpm": 1820,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0931",
+  "empresaId": "EMP-11",
+  "lat": -8.2142,
+  "lng": -79.019786,
+  "rpm": 1923,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0932",
+  "empresaId": "EMP-12",
+  "lat": -8.038117,
+  "lng": -78.910146,
+  "rpm": 2122,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0933",
+  "empresaId": "EMP-13",
+  "lat": -8.015164,
+  "lng": -78.949306,
+  "rpm": 1955,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0934",
+  "empresaId": "EMP-14",
+  "lat": -8.016165,
+  "lng": -78.955151,
+  "rpm": 1664,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0935",
+  "empresaId": "EMP-15",
+  "lat": -8.227441,
+  "lng": -79.13676,
+  "rpm": 1672,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0936",
+  "empresaId": "EMP-16",
+  "lat": -8.08937,
+  "lng": -78.990273,
+  "rpm": 2124,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0937",
+  "empresaId": "EMP-17",
+  "lat": -8.230535,
+  "lng": -79.078499,
+  "rpm": 1928,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0938",
+  "empresaId": "EMP-18",
+  "lat": -8.113889,
+  "lng": -79.065336,
+  "rpm": 1716,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0939",
+  "empresaId": "EMP-19",
+  "lat": -8.157196,
+  "lng": -78.98439,
+  "rpm": 2183,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0940",
+  "empresaId": "EMP-20",
+  "lat": -8.034028,
+  "lng": -79.12424,
+  "rpm": 1836,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0941",
+  "empresaId": "EMP-01",
+  "lat": -8.065313,
+  "lng": -79.0504,
+  "rpm": 1542,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0942",
+  "empresaId": "EMP-02",
+  "lat": -8.243762,
+  "lng": -79.039056,
+  "rpm": 2060,
+  "temperatura": 79
+ },
+ {
+  "equipoId": "EQ-0943",
+  "empresaId": "EMP-03",
+  "lat": -8.082685,
+  "lng": -79.008699,
+  "rpm": 2052,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0944",
+  "empresaId": "EMP-04",
+  "lat": -8.114683,
+  "lng": -78.890454,
+  "rpm": 1718,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0945",
+  "empresaId": "EMP-05",
+  "lat": -8.147651,
+  "lng": -79.131151,
+  "rpm": 2176,
+  "temperatura": 89
+ },
+ {
+  "equipoId": "EQ-0946",
+  "empresaId": "EMP-06",
+  "lat": -8.208163,
+  "lng": -78.951992,
+  "rpm": 2006,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0947",
+  "empresaId": "EMP-07",
+  "lat": -8.199013,
+  "lng": -79.142656,
+  "rpm": 1668,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0948",
+  "empresaId": "EMP-08",
+  "lat": -8.192223,
+  "lng": -78.908782,
+  "rpm": 1505,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0949",
+  "empresaId": "EMP-09",
+  "lat": -8.0088,
+  "lng": -78.906373,
+  "rpm": 1592,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0950",
+  "empresaId": "EMP-10",
+  "lat": -8.176187,
+  "lng": -78.924737,
+  "rpm": 2050,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0951",
+  "empresaId": "EMP-11",
+  "lat": -8.130488,
+  "lng": -79.041743,
+  "rpm": 1979,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0952",
+  "empresaId": "EMP-12",
+  "lat": -8.023455,
+  "lng": -79.027095,
+  "rpm": 1834,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0953",
+  "empresaId": "EMP-13",
+  "lat": -8.052285,
+  "lng": -79.132578,
+  "rpm": 2038,
+  "temperatura": 87
+ },
+ {
+  "equipoId": "EQ-0954",
+  "empresaId": "EMP-14",
+  "lat": -8.09282,
+  "lng": -78.900223,
+  "rpm": 2063,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0955",
+  "empresaId": "EMP-15",
+  "lat": -7.993109,
+  "lng": -78.978207,
+  "rpm": 1729,
+  "temperatura": 86
+ },
+ {
+  "equipoId": "EQ-0956",
+  "empresaId": "EMP-16",
+  "lat": -8.252541,
+  "lng": -79.083781,
+  "rpm": 1877,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0957",
+  "empresaId": "EMP-17",
+  "lat": -8.168262,
+  "lng": -79.137675,
+  "rpm": 2104,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0958",
+  "empresaId": "EMP-18",
+  "lat": -8.147091,
+  "lng": -79.125894,
+  "rpm": 1607,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0959",
+  "empresaId": "EMP-19",
+  "lat": -8.257052,
+  "lng": -78.949202,
+  "rpm": 1736,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0960",
+  "empresaId": "EMP-20",
+  "lat": -8.044404,
+  "lng": -78.94157,
+  "rpm": 1585,
+  "temperatura": 81
+ },
+ {
+  "equipoId": "EQ-0961",
+  "empresaId": "EMP-01",
+  "lat": -8.204918,
+  "lng": -79.084183,
+  "rpm": 1592,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0962",
+  "empresaId": "EMP-02",
+  "lat": -8.248393,
+  "lng": -79.032086,
+  "rpm": 1591,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0963",
+  "empresaId": "EMP-03",
+  "lat": -8.231522,
+  "lng": -78.88818,
+  "rpm": 1565,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0964",
+  "empresaId": "EMP-04",
+  "lat": -8.081301,
+  "lng": -78.89105,
+  "rpm": 1597,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0965",
+  "empresaId": "EMP-05",
+  "lat": -8.005933,
+  "lng": -79.080086,
+  "rpm": 1728,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0966",
+  "empresaId": "EMP-06",
+  "lat": -8.123908,
+  "lng": -78.907663,
+  "rpm": 1577,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0967",
+  "empresaId": "EMP-07",
+  "lat": -8.057381,
+  "lng": -79.117648,
+  "rpm": 1925,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0968",
+  "empresaId": "EMP-08",
+  "lat": -8.251511,
+  "lng": -79.090077,
+  "rpm": 1799,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0969",
+  "empresaId": "EMP-09",
+  "lat": -8.142022,
+  "lng": -79.155688,
+  "rpm": 1925,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0970",
+  "empresaId": "EMP-10",
+  "lat": -8.138043,
+  "lng": -79.057685,
+  "rpm": 2112,
+  "temperatura": 85
+ },
+ {
+  "equipoId": "EQ-0971",
+  "empresaId": "EMP-11",
+  "lat": -8.130303,
+  "lng": -79.028835,
+  "rpm": 1552,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0972",
+  "empresaId": "EMP-12",
+  "lat": -8.137895,
+  "lng": -79.014914,
+  "rpm": 1909,
+  "temperatura": 93
+ },
+ {
+  "equipoId": "EQ-0973",
+  "empresaId": "EMP-13",
+  "lat": -8.100052,
+  "lng": -79.068064,
+  "rpm": 1967,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0974",
+  "empresaId": "EMP-14",
+  "lat": -8.160887,
+  "lng": -79.031368,
+  "rpm": 1886,
+  "temperatura": 77
+ },
+ {
+  "equipoId": "EQ-0975",
+  "empresaId": "EMP-15",
+  "lat": -8.180609,
+  "lng": -79.163272,
+  "rpm": 1803,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0976",
+  "empresaId": "EMP-16",
+  "lat": -8.214461,
+  "lng": -79.107512,
+  "rpm": 1992,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0977",
+  "empresaId": "EMP-17",
+  "lat": -8.255734,
+  "lng": -78.915116,
+  "rpm": 1868,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0978",
+  "empresaId": "EMP-18",
+  "lat": -8.128476,
+  "lng": -79.021103,
+  "rpm": 1524,
+  "temperatura": 88
+ },
+ {
+  "equipoId": "EQ-0979",
+  "empresaId": "EMP-19",
+  "lat": -8.231167,
+  "lng": -78.943197,
+  "rpm": 2069,
+  "temperatura": 95
+ },
+ {
+  "equipoId": "EQ-0980",
+  "empresaId": "EMP-20",
+  "lat": -8.113617,
+  "lng": -79.075673,
+  "rpm": 1776,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0981",
+  "empresaId": "EMP-01",
+  "lat": -8.144474,
+  "lng": -78.888209,
+  "rpm": 1645,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0982",
+  "empresaId": "EMP-02",
+  "lat": -8.123126,
+  "lng": -79.018783,
+  "rpm": 2092,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0983",
+  "empresaId": "EMP-03",
+  "lat": -8.10684,
+  "lng": -78.882205,
+  "rpm": 1553,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0984",
+  "empresaId": "EMP-04",
+  "lat": -8.100494,
+  "lng": -79.011192,
+  "rpm": 1550,
+  "temperatura": 94
+ },
+ {
+  "equipoId": "EQ-0985",
+  "empresaId": "EMP-05",
+  "lat": -8.11908,
+  "lng": -79.066189,
+  "rpm": 2094,
+  "temperatura": 80
+ },
+ {
+  "equipoId": "EQ-0986",
+  "empresaId": "EMP-06",
+  "lat": -7.992354,
+  "lng": -79.097824,
+  "rpm": 2000,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0987",
+  "empresaId": "EMP-07",
+  "lat": -8.040978,
+  "lng": -79.086686,
+  "rpm": 1941,
+  "temperatura": 75
+ },
+ {
+  "equipoId": "EQ-0988",
+  "empresaId": "EMP-08",
+  "lat": -8.163132,
+  "lng": -78.91055,
+  "rpm": 1887,
+  "temperatura": 83
+ },
+ {
+  "equipoId": "EQ-0989",
+  "empresaId": "EMP-09",
+  "lat": -7.973426,
+  "lng": -79.055988,
+  "rpm": 1972,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0990",
+  "empresaId": "EMP-10",
+  "lat": -8.085038,
+  "lng": -78.968607,
+  "rpm": 1578,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-0991",
+  "empresaId": "EMP-11",
+  "lat": -8.128966,
+  "lng": -79.104195,
+  "rpm": 1674,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0992",
+  "empresaId": "EMP-12",
+  "lat": -8.087664,
+  "lng": -79.064344,
+  "rpm": 1973,
+  "temperatura": 78
+ },
+ {
+  "equipoId": "EQ-0993",
+  "empresaId": "EMP-13",
+  "lat": -8.019604,
+  "lng": -79.141115,
+  "rpm": 2065,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0994",
+  "empresaId": "EMP-14",
+  "lat": -8.228661,
+  "lng": -79.078745,
+  "rpm": 1920,
+  "temperatura": 91
+ },
+ {
+  "equipoId": "EQ-0995",
+  "empresaId": "EMP-15",
+  "lat": -8.119764,
+  "lng": -79.048245,
+  "rpm": 2110,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0996",
+  "empresaId": "EMP-16",
+  "lat": -7.979538,
+  "lng": -78.899355,
+  "rpm": 2042,
+  "temperatura": 82
+ },
+ {
+  "equipoId": "EQ-0997",
+  "empresaId": "EMP-17",
+  "lat": -8.049303,
+  "lng": -79.119388,
+  "rpm": 2158,
+  "temperatura": 90
+ },
+ {
+  "equipoId": "EQ-0998",
+  "empresaId": "EMP-18",
+  "lat": -8.079707,
+  "lng": -79.073925,
+  "rpm": 1801,
+  "temperatura": 84
+ },
+ {
+  "equipoId": "EQ-0999",
+  "empresaId": "EMP-19",
+  "lat": -8.065691,
+  "lng": -79.139945,
+  "rpm": 1714,
+  "temperatura": 76
+ },
+ {
+  "equipoId": "EQ-1000",
+  "empresaId": "EMP-20",
+  "lat": -8.064093,
+  "lng": -79.148889,
+  "rpm": 1621,
+  "temperatura": 77
+ }
+]
