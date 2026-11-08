@@ -1,0 +1,31 @@
+{
+    "TableName": "lab11-telemetria",
+    "Status": "ACTIVE",
+    "KeySchema": [
+        {
+            "AttributeName": "equipoId",
+            "KeyType": "HASH"
+        },
+        {
+            "AttributeName": "timestamp",
+            "KeyType": "RANGE"
+        }
+    ],
+    "GSI": [
+        {
+            "Name": "empresa-timestamp-index",
+            "Status": "ACTIVE",
+            "KeySchema": [
+                {
+                    "AttributeName": "empresaId",
+                    "KeyType": "HASH"
+                },
+                {
+                    "AttributeName": "timestamp",
+                    "KeyType": "RANGE"
+                }
+            ]
+        }
+    ],
+    "TTL": null
+}
