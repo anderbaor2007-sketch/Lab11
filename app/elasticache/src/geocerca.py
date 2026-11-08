@@ -1,4 +1,3 @@
-"""Geocerca: equipos dentro de un radio, con GEOSEARCH sobre flota:geo."""
 import time
 
 from common import cache

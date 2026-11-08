@@ -1,5 +1,3 @@
-"""Mide la latencia de lectura de la ultima posicion (p50, p95, p99).
-modo = "cache" (cache-aside con Valkey) o "tabla" (DynamoDB directo)."""
 import random
 import time
 

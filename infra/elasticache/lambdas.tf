@@ -1,5 +1,3 @@
-# Las 4 Lambdas comparten un mismo zip (codigo + libreria redis + flota.json).
-# El zip se arma antes con scripts\build_lambdas.ps1.
 data "archive_file" "codigo" {
   type        = "zip"
   source_dir  = "${path.module}/../../app/elasticache/build"

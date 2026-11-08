@@ -1,0 +1,260 @@
+﻿{
+    "Label": "EngineCPUUtilization",
+    "Datapoints": [
+        {
+            "Timestamp": "2026-11-07T18:39:00-05:00",
+            "Maximum": 0.5666666666666667,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:58:00-05:00",
+            "Maximum": 0.5678971104058794,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:22:00-05:00",
+            "Maximum": 0.5334222370395065,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:37:00-05:00",
+            "Maximum": 0.5344021376085505,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:54:00-05:00",
+            "Maximum": 0.5174428309130362,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:56:00-05:00",
+            "Maximum": 0.5500916819469912,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:20:00-05:00",
+            "Maximum": 0.5501833944648216,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:35:00-05:00",
+            "Maximum": 0.56657223796034,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:18:00-05:00",
+            "Maximum": 0.5337781484570475,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:50:00-05:00",
+            "Maximum": 0.55,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T19:09:00-05:00",
+            "Maximum": 0.5334222370395065,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:33:00-05:00",
+            "Maximum": 0.5333333333333333,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T19:06:00-05:00",
+            "Maximum": 0.5336001334000333,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T19:05:00-05:00",
+            "Maximum": 0.5499083486085652,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:30:00-05:00",
+            "Maximum": 0.5503669112741828,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T19:07:00-05:00",
+            "Maximum": 0.5333333333333333,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:31:00-05:00",
+            "Maximum": 0.55,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T19:03:00-05:00",
+            "Maximum": 0.6480558325024925,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:28:00-05:00",
+            "Maximum": 0.5334222370395065,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T19:04:00-05:00",
+            "Maximum": 0.6185222333667669,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:29:00-05:00",
+            "Maximum": 0.5330667999333667,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:26:00-05:00",
+            "Maximum": 0.5333333333333333,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T19:01:00-05:00",
+            "Maximum": 0.5334222370395065,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:27:00-05:00",
+            "Maximum": 0.5333333333333333,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T19:02:00-05:00",
+            "Maximum": 0.5500916819469912,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:59:00-05:00",
+            "Maximum": 0.5333333333333333,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:24:00-05:00",
+            "Maximum": 0.5486284289276808,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:25:00-05:00",
+            "Maximum": 0.5681818181818182,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T19:00:00-05:00",
+            "Maximum": 0.6666666666666666,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:57:00-05:00",
+            "Maximum": 0.5322687957418496,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:21:00-05:00",
+            "Maximum": 0.5500916819469912,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:23:00-05:00",
+            "Maximum": 0.5333333333333333,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:40:00-05:00",
+            "Maximum": 0.5649717514124294,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:55:00-05:00",
+            "Maximum": 0.5166666666666667,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:19:00-05:00",
+            "Maximum": 0.533689126084056,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:38:00-05:00",
+            "Maximum": 0.5500916819469912,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:36:00-05:00",
+            "Maximum": 0.5324459234608985,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:53:00-05:00",
+            "Maximum": 0.5493590810720825,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T19:08:00-05:00",
+            "Maximum": 0.5500916819469912,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:32:00-05:00",
+            "Maximum": 0.5334222370395065,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:34:00-05:00",
+            "Maximum": 0.516752792132022,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:51:00-05:00",
+            "Maximum": 0.5334222370395065,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:48:00-05:00",
+            "Maximum": 0.5333333333333333,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:49:00-05:00",
+            "Maximum": 0.516752792132022,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:46:00-05:00",
+            "Maximum": 0.5334222370395065,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:47:00-05:00",
+            "Maximum": 0.5500916819469912,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:44:00-05:00",
+            "Maximum": 0.5334222370395065,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:43:00-05:00",
+            "Maximum": 0.5336001334000333,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:45:00-05:00",
+            "Maximum": 0.55,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:41:00-05:00",
+            "Maximum": 0.5347593582887701,
+            "Unit": "Percent"
+        },
+        {
+            "Timestamp": "2026-11-07T18:42:00-05:00",
+            "Maximum": 0.55,
+            "Unit": "Percent"
+        }
+    ]
+}

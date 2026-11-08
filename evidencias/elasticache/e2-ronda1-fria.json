@@ -1,0 +1,1 @@
+{"equipos": 200, "aciertos_cache": 0, "lecturas_a_dynamodb": 200, "errores_cache": 0, "modo": "cache-aside", "ms_total": 2037.55}

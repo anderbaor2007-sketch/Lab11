@@ -1,5 +1,3 @@
-"""Equivale a consultar-telemetria: lee la ultima posicion de varios equipos
-con cache-aside (Valkey primero, DynamoDB si no esta)."""
 import time
 
 from common import flota, leer_cache_aside

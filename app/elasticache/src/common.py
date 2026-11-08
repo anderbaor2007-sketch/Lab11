@@ -1,4 +1,3 @@
-"""Utilidades compartidas por las Lambdas del Lab 11 (ElastiCache)."""
 import json
 import os
 
@@ -14,7 +13,6 @@ _flota = None
 
 
 def cache():
-    """Conexion reutilizable al cluster Valkey (TLS activado)."""
     global _cache
     if _cache is None:
         _cache = redis.Redis(
@@ -29,7 +27,6 @@ def cache():
 
 
 def tabla():
-    """Tabla DynamoDB que actua como fuente de verdad."""
     global _tabla
     if _tabla is None:
         _tabla = boto3.resource("dynamodb").Table(os.environ["TABLE_NAME"])
@@ -37,7 +34,6 @@ def tabla():
 
 
 def flota():
-    """Dataset compartido (shared/dataset/flota.json), empaquetado con la Lambda."""
     global _flota
     if _flota is None:
         ruta = os.path.join(os.path.dirname(__file__), "flota.json")
@@ -47,7 +43,6 @@ def flota():
 
 
 def leer_tabla(equipo_id):
-    """Ultima posicion de un equipo leyendo DynamoDB (Query, Limit=1)."""
     resp = tabla().query(
         KeyConditionExpression=Key("equipoId").eq(equipo_id),
         ScanIndexForward=False,
@@ -60,7 +55,6 @@ def leer_tabla(equipo_id):
 
 
 def leer_cache_aside(equipo_id, usar_cache=True, fallo_simulado=False):
-    """Patron cache-aside. Devuelve (posicion, acierto, error_cache)."""
     clave = f"equipo:{equipo_id}:pos"
     if usar_cache:
         try:
@@ -70,7 +64,6 @@ def leer_cache_aside(equipo_id, usar_cache=True, fallo_simulado=False):
             if pos:
                 return pos, True, False
         except redis.RedisError:
-            # Si el cache falla, se sigue leyendo de DynamoDB: el sistema no cae.
             return leer_tabla(equipo_id), False, True
 
     pos = leer_tabla(equipo_id)

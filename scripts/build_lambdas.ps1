@@ -1,5 +1,3 @@
-# Arma app\elasticache\build con el codigo, flota.json y la libreria redis.
-# Terraform empaqueta esa carpeta en el zip de las Lambdas.
 $raiz  = Split-Path $PSScriptRoot -Parent
 $src   = Join-Path $raiz "app\elasticache\src"
 $build = Join-Path $raiz "app\elasticache\build"

@@ -1,5 +1,3 @@
-"""Genera el dataset compartido (flota.json) con semilla fija.
-Lo usan ElastiCache y DynamoDB para que ambas mediciones sean comparables."""
 import json
 import os
 import random
@@ -7,7 +5,7 @@ import random
 SEMILLA = 11
 N_EQUIPOS = 1000
 N_EMPRESAS = 20
-LAT0, LNG0 = -8.1116, -79.0288  # Trujillo
+LAT0, LNG0 = -8.1116, -79.0288
 
 rng = random.Random(SEMILLA)
 flota = []

@@ -1,4 +1,3 @@
-# Un rol por Lambda, con el permiso minimo que necesita (sin comodines).
 locals {
   funciones = {
     poblador = {
@@ -45,7 +44,6 @@ resource "aws_iam_role" "fn" {
   assume_role_policy = data.aws_iam_policy_document.assume.json
 }
 
-# Permite crear interfaces de red en la VPC y escribir logs en CloudWatch.
 resource "aws_iam_role_policy_attachment" "vpc" {
   for_each   = local.funciones
   role       = aws_iam_role.fn[each.key].name

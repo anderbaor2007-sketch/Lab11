@@ -1,4 +1,3 @@
-# Red del laboratorio: VPC propia, 2 subredes privadas en 2 zonas, sin NAT.
 data "aws_availability_zones" "az" {
   state = "available"
 }
@@ -38,7 +37,6 @@ resource "aws_route_table_association" "private" {
   route_table_id = aws_route_table.private.id
 }
 
-# Las Lambdas no tienen internet: llegan a DynamoDB por un endpoint gateway (gratuito).
 resource "aws_vpc_endpoint" "dynamodb" {
   vpc_id            = aws_vpc.lab.id
   service_name      = "com.amazonaws.${var.region}.dynamodb"
@@ -63,7 +61,6 @@ resource "aws_security_group" "lambda" {
   }
 }
 
-# Solo las Lambdas pueden hablar con el cache (puerto 6379).
 resource "aws_security_group" "cache" {
   name        = "lab11-cache-sg"
   description = "SG del cluster de ElastiCache"

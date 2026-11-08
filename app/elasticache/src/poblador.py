@@ -1,5 +1,3 @@
-"""Simula a procesar-telemetria: escribe la ultima posicion de cada equipo
-en el cache (Hash + GEO + Set) y en la tabla DynamoDB (fuente de verdad)."""
 import time
 from decimal import Decimal
 
