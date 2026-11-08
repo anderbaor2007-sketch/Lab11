@@ -1,0 +1,1 @@
+{"statusCode": 200, "body": "{\"servicio\": \"dynamodb\", \"lecturas\": 1000, \"descartadas\": 100, \"errores\": 0, \"p50_ms\": 4.424, \"p95_ms\": 16.308, \"p99_ms\": 16.951, \"promedio_ms\": 7.715, \"timestamp\": 1794115336}"}
