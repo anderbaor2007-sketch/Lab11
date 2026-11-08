@@ -1,0 +1,435 @@
+=== INICIO: 11/07/2026 23:37:11 ===
+[0m[1mdata.aws_iam_policy_document.lambda_assume: Reading...[0m[0m
+[0m[1mdata.aws_iam_policy_document.lambda_assume: Read complete after 0s [id=2690255455][0m
+
+Terraform used the selected providers to generate the following execution
+plan. Resource actions are indicated with the following symbols:
+  [32m+[0m create[0m
+
+Terraform will perform the following actions:
+
+[1m  # aws_dynamodb_table.telemetria[0m will be created
+[0m  [32m+[0m[0m resource "aws_dynamodb_table" "telemetria" {
+      [32m+[0m[0m arn              = (known after apply)
+      [32m+[0m[0m billing_mode     = "PAY_PER_REQUEST"
+      [32m+[0m[0m hash_key         = "equipoId"
+      [32m+[0m[0m id               = (known after apply)
+      [32m+[0m[0m name             = "lab11-telemetria"
+      [32m+[0m[0m range_key        = "timestamp"
+      [32m+[0m[0m read_capacity    = (known after apply)
+      [32m+[0m[0m region           = "us-east-2"
+      [32m+[0m[0m stream_arn       = (known after apply)
+      [32m+[0m[0m stream_label     = (known after apply)
+      [32m+[0m[0m stream_view_type = (known after apply)
+      [32m+[0m[0m tags             = {
+          [32m+[0m[0m "Lab"     = "11"
+          [32m+[0m[0m "Project" = "TerraFleet"
+          [32m+[0m[0m "Service" = "DynamoDB"
+        }
+      [32m+[0m[0m tags_all         = {
+          [32m+[0m[0m "Lab"     = "11"
+          [32m+[0m[0m "Project" = "TerraFleet"
+          [32m+[0m[0m "Service" = "DynamoDB"
+        }
+      [32m+[0m[0m write_capacity   = (known after apply)
+
+      [32m+[0m[0m attribute {
+          [32m+[0m[0m name = "empresaId"
+          [32m+[0m[0m type = "S"
+        }
+      [32m+[0m[0m attribute {
+          [32m+[0m[0m name = "equipoId"
+          [32m+[0m[0m type = "S"
+        }
+      [32m+[0m[0m attribute {
+          [32m+[0m[0m name = "timestamp"
+          [32m+[0m[0m type = "N"
+        }
+
+      [32m+[0m[0m global_secondary_index {
+          [32m+[0m[0m hash_key           = "empresaId"
+          [32m+[0m[0m name               = "empresa-timestamp-index"
+          [32m+[0m[0m non_key_attributes = []
+          [32m+[0m[0m projection_type    = "ALL"
+          [32m+[0m[0m range_key          = "timestamp"
+          [32m+[0m[0m read_capacity      = (known after apply)
+          [32m+[0m[0m write_capacity     = (known after apply)
+
+          [32m+[0m[0m key_schema (known after apply)
+
+          [32m+[0m[0m warm_throughput (known after apply)
+        }
+
+      [32m+[0m[0m global_table_witness (known after apply)
+
+      [32m+[0m[0m point_in_time_recovery {
+          [32m+[0m[0m enabled                 = true
+          [32m+[0m[0m recovery_period_in_days = (known after apply)
+        }
+
+      [32m+[0m[0m server_side_encryption (known after apply)
+
+      [32m+[0m[0m ttl {
+          [32m+[0m[0m attribute_name = "expiracion"
+          [32m+[0m[0m enabled        = true
+        }
+
+      [32m+[0m[0m warm_throughput (known after apply)
+    }
+
+[1m  # aws_iam_role.benchmark[0m will be created
+[0m  [32m+[0m[0m resource "aws_iam_role" "benchmark" {
+      [32m+[0m[0m arn                   = (known after apply)
+      [32m+[0m[0m assume_role_policy    = jsonencode(
+            {
+              [32m+[0m[0m Statement = [
+                  [32m+[0m[0m {
+                      [32m+[0m[0m Action    = "sts:AssumeRole"
+                      [32m+[0m[0m Effect    = "Allow"
+                      [32m+[0m[0m Principal = {
+                          [32m+[0m[0m Service = "lambda.amazonaws.com"
+                        }
+                    },
+                ]
+              [32m+[0m[0m Version   = "2012-10-17"
+            }
+        )
+      [32m+[0m[0m create_date           = (known after apply)
+      [32m+[0m[0m force_detach_policies = false
+      [32m+[0m[0m id                    = (known after apply)
+      [32m+[0m[0m managed_policy_arns   = (known after apply)
+      [32m+[0m[0m max_session_duration  = 3600
+      [32m+[0m[0m name                  = "lab11-dynamo-benchmark"
+      [32m+[0m[0m name_prefix           = (known after apply)
+      [32m+[0m[0m path                  = "/"
+      [32m+[0m[0m tags_all              = (known after apply)
+      [32m+[0m[0m unique_id             = (known after apply)
+
+      [32m+[0m[0m inline_policy (known after apply)
+    }
+
+[1m  # aws_iam_role.consultar_telemetria[0m will be created
+[0m  [32m+[0m[0m resource "aws_iam_role" "consultar_telemetria" {
+      [32m+[0m[0m arn                   = (known after apply)
+      [32m+[0m[0m assume_role_policy    = jsonencode(
+            {
+              [32m+[0m[0m Statement = [
+                  [32m+[0m[0m {
+                      [32m+[0m[0m Action    = "sts:AssumeRole"
+                      [32m+[0m[0m Effect    = "Allow"
+                      [32m+[0m[0m Principal = {
+                          [32m+[0m[0m Service = "lambda.amazonaws.com"
+                        }
+                    },
+                ]
+              [32m+[0m[0m Version   = "2012-10-17"
+            }
+        )
+      [32m+[0m[0m create_date           = (known after apply)
+      [32m+[0m[0m force_detach_policies = false
+      [32m+[0m[0m id                    = (known after apply)
+      [32m+[0m[0m managed_policy_arns   = (known after apply)
+      [32m+[0m[0m max_session_duration  = 3600
+      [32m+[0m[0m name                  = "lab11-dynamo-consultar-telemetria"
+      [32m+[0m[0m name_prefix           = (known after apply)
+      [32m+[0m[0m path                  = "/"
+      [32m+[0m[0m tags_all              = (known after apply)
+      [32m+[0m[0m unique_id             = (known after apply)
+
+      [32m+[0m[0m inline_policy (known after apply)
+    }
+
+[1m  # aws_iam_role.procesar_telemetria[0m will be created
+[0m  [32m+[0m[0m resource "aws_iam_role" "procesar_telemetria" {
+      [32m+[0m[0m arn                   = (known after apply)
+      [32m+[0m[0m assume_role_policy    = jsonencode(
+            {
+              [32m+[0m[0m Statement = [
+                  [32m+[0m[0m {
+                      [32m+[0m[0m Action    = "sts:AssumeRole"
+                      [32m+[0m[0m Effect    = "Allow"
+                      [32m+[0m[0m Principal = {
+                          [32m+[0m[0m Service = "lambda.amazonaws.com"
+                        }
+                    },
+                ]
+              [32m+[0m[0m Version   = "2012-10-17"
+            }
+        )
+      [32m+[0m[0m create_date           = (known after apply)
+      [32m+[0m[0m force_detach_policies = false
+      [32m+[0m[0m id                    = (known after apply)
+      [32m+[0m[0m managed_policy_arns   = (known after apply)
+      [32m+[0m[0m max_session_duration  = 3600
+      [32m+[0m[0m name                  = "lab11-dynamo-procesar-telemetria"
+      [32m+[0m[0m name_prefix           = (known after apply)
+      [32m+[0m[0m path                  = "/"
+      [32m+[0m[0m tags_all              = (known after apply)
+      [32m+[0m[0m unique_id             = (known after apply)
+
+      [32m+[0m[0m inline_policy (known after apply)
+    }
+
+[1m  # aws_iam_role_policy.benchmark_dynamo[0m will be created
+[0m  [32m+[0m[0m resource "aws_iam_role_policy" "benchmark_dynamo" {
+      [32m+[0m[0m id          = (known after apply)
+      [32m+[0m[0m name        = "lab11-benchmark-dynamo-read"
+      [32m+[0m[0m name_prefix = (known after apply)
+      [32m+[0m[0m policy      = (known after apply)
+      [32m+[0m[0m role        = (known after apply)
+    }
+
+[1m  # aws_iam_role_policy.consultar_dynamo[0m will be created
+[0m  [32m+[0m[0m resource "aws_iam_role_policy" "consultar_dynamo" {
+      [32m+[0m[0m id          = (known after apply)
+      [32m+[0m[0m name        = "lab11-consultar-dynamo-read"
+      [32m+[0m[0m name_prefix = (known after apply)
+      [32m+[0m[0m policy      = (known after apply)
+      [32m+[0m[0m role        = (known after apply)
+    }
+
+[1m  # aws_iam_role_policy.procesar_dynamo[0m will be created
+[0m  [32m+[0m[0m resource "aws_iam_role_policy" "procesar_dynamo" {
+      [32m+[0m[0m id          = (known after apply)
+      [32m+[0m[0m name        = "lab11-procesar-dynamo-write"
+      [32m+[0m[0m name_prefix = (known after apply)
+      [32m+[0m[0m policy      = (known after apply)
+      [32m+[0m[0m role        = (known after apply)
+    }
+
+[1m  # aws_iam_role_policy_attachment.benchmark_logs[0m will be created
+[0m  [32m+[0m[0m resource "aws_iam_role_policy_attachment" "benchmark_logs" {
+      [32m+[0m[0m id         = (known after apply)
+      [32m+[0m[0m policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+      [32m+[0m[0m role       = "lab11-dynamo-benchmark"
+    }
+
+[1m  # aws_iam_role_policy_attachment.consultar_logs[0m will be created
+[0m  [32m+[0m[0m resource "aws_iam_role_policy_attachment" "consultar_logs" {
+      [32m+[0m[0m id         = (known after apply)
+      [32m+[0m[0m policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+      [32m+[0m[0m role       = "lab11-dynamo-consultar-telemetria"
+    }
+
+[1m  # aws_iam_role_policy_attachment.procesar_logs[0m will be created
+[0m  [32m+[0m[0m resource "aws_iam_role_policy_attachment" "procesar_logs" {
+      [32m+[0m[0m id         = (known after apply)
+      [32m+[0m[0m policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+      [32m+[0m[0m role       = "lab11-dynamo-procesar-telemetria"
+    }
+
+[1m  # aws_lambda_function.benchmark[0m will be created
+[0m  [32m+[0m[0m resource "aws_lambda_function" "benchmark" {
+      [32m+[0m[0m architectures                  = (known after apply)
+      [32m+[0m[0m arn                            = (known after apply)
+      [32m+[0m[0m code_sha256                    = (known after apply)
+      [32m+[0m[0m filename                       = "./benchmark.zip"
+      [32m+[0m[0m function_name                  = "lab11-dynamo-benchmark"
+      [32m+[0m[0m handler                        = "handler.main"
+      [32m+[0m[0m id                             = (known after apply)
+      [32m+[0m[0m invoke_arn                     = (known after apply)
+      [32m+[0m[0m last_modified                  = (known after apply)
+      [32m+[0m[0m memory_size                    = 512
+      [32m+[0m[0m package_type                   = "Zip"
+      [32m+[0m[0m publish                        = false
+      [32m+[0m[0m qualified_arn                  = (known after apply)
+      [32m+[0m[0m qualified_invoke_arn           = (known after apply)
+      [32m+[0m[0m region                         = "us-east-2"
+      [32m+[0m[0m reserved_concurrent_executions = -1
+      [32m+[0m[0m response_streaming_invoke_arn  = (known after apply)
+      [32m+[0m[0m role                           = (known after apply)
+      [32m+[0m[0m runtime                        = "python3.12"
+      [32m+[0m[0m signing_job_arn                = (known after apply)
+      [32m+[0m[0m signing_profile_version_arn    = (known after apply)
+      [32m+[0m[0m skip_destroy                   = false
+      [32m+[0m[0m source_code_hash               = "5gIPqdSMvJsQekK2OnEofB7+oKu7ggMWP0GXyau+S0Q="
+      [32m+[0m[0m source_code_size               = (known after apply)
+      [32m+[0m[0m tags                           = {
+          [32m+[0m[0m "Lab"     = "11"
+          [32m+[0m[0m "Project" = "TerraFleet"
+        }
+      [32m+[0m[0m tags_all                       = {
+          [32m+[0m[0m "Lab"     = "11"
+          [32m+[0m[0m "Project" = "TerraFleet"
+        }
+      [32m+[0m[0m timeout                        = 120
+      [32m+[0m[0m version                        = (known after apply)
+
+      [32m+[0m[0m environment {
+          [32m+[0m[0m variables = {
+              [32m+[0m[0m "TABLE_NAME" = "lab11-telemetria"
+            }
+        }
+
+      [32m+[0m[0m ephemeral_storage (known after apply)
+
+      [32m+[0m[0m logging_config (known after apply)
+
+      [32m+[0m[0m tracing_config (known after apply)
+    }
+
+[1m  # aws_lambda_function.consultar_telemetria[0m will be created
+[0m  [32m+[0m[0m resource "aws_lambda_function" "consultar_telemetria" {
+      [32m+[0m[0m architectures                  = (known after apply)
+      [32m+[0m[0m arn                            = (known after apply)
+      [32m+[0m[0m code_sha256                    = (known after apply)
+      [32m+[0m[0m filename                       = "./consultar_telemetria.zip"
+      [32m+[0m[0m function_name                  = "lab11-dynamo-consultar-telemetria"
+      [32m+[0m[0m handler                        = "handler.main"
+      [32m+[0m[0m id                             = (known after apply)
+      [32m+[0m[0m invoke_arn                     = (known after apply)
+      [32m+[0m[0m last_modified                  = (known after apply)
+      [32m+[0m[0m memory_size                    = 256
+      [32m+[0m[0m package_type                   = "Zip"
+      [32m+[0m[0m publish                        = false
+      [32m+[0m[0m qualified_arn                  = (known after apply)
+      [32m+[0m[0m qualified_invoke_arn           = (known after apply)
+      [32m+[0m[0m region                         = "us-east-2"
+      [32m+[0m[0m reserved_concurrent_executions = -1
+      [32m+[0m[0m response_streaming_invoke_arn  = (known after apply)
+      [32m+[0m[0m role                           = (known after apply)
+      [32m+[0m[0m runtime                        = "python3.12"
+      [32m+[0m[0m signing_job_arn                = (known after apply)
+      [32m+[0m[0m signing_profile_version_arn    = (known after apply)
+      [32m+[0m[0m skip_destroy                   = false
+      [32m+[0m[0m source_code_hash               = "lycZkcKrefOotMsdF7D9XYLXOZ6nXvtzwKesW3dP6ks="
+      [32m+[0m[0m source_code_size               = (known after apply)
+      [32m+[0m[0m tags                           = {
+          [32m+[0m[0m "Lab"     = "11"
+          [32m+[0m[0m "Project" = "TerraFleet"
+        }
+      [32m+[0m[0m tags_all                       = {
+          [32m+[0m[0m "Lab"     = "11"
+          [32m+[0m[0m "Project" = "TerraFleet"
+        }
+      [32m+[0m[0m timeout                        = 30
+      [32m+[0m[0m version                        = (known after apply)
+
+      [32m+[0m[0m environment {
+          [32m+[0m[0m variables = {
+              [32m+[0m[0m "TABLE_NAME" = "lab11-telemetria"
+            }
+        }
+
+      [32m+[0m[0m ephemeral_storage (known after apply)
+
+      [32m+[0m[0m logging_config (known after apply)
+
+      [32m+[0m[0m tracing_config (known after apply)
+    }
+
+[1m  # aws_lambda_function.procesar_telemetria[0m will be created
+[0m  [32m+[0m[0m resource "aws_lambda_function" "procesar_telemetria" {
+      [32m+[0m[0m architectures                  = (known after apply)
+      [32m+[0m[0m arn                            = (known after apply)
+      [32m+[0m[0m code_sha256                    = (known after apply)
+      [32m+[0m[0m filename                       = "./procesar_telemetria.zip"
+      [32m+[0m[0m function_name                  = "lab11-dynamo-procesar-telemetria"
+      [32m+[0m[0m handler                        = "handler.main"
+      [32m+[0m[0m id                             = (known after apply)
+      [32m+[0m[0m invoke_arn                     = (known after apply)
+      [32m+[0m[0m last_modified                  = (known after apply)
+      [32m+[0m[0m memory_size                    = 256
+      [32m+[0m[0m package_type                   = "Zip"
+      [32m+[0m[0m publish                        = false
+      [32m+[0m[0m qualified_arn                  = (known after apply)
+      [32m+[0m[0m qualified_invoke_arn           = (known after apply)
+      [32m+[0m[0m region                         = "us-east-2"
+      [32m+[0m[0m reserved_concurrent_executions = -1
+      [32m+[0m[0m response_streaming_invoke_arn  = (known after apply)
+      [32m+[0m[0m role                           = (known after apply)
+      [32m+[0m[0m runtime                        = "python3.12"
+      [32m+[0m[0m signing_job_arn                = (known after apply)
+      [32m+[0m[0m signing_profile_version_arn    = (known after apply)
+      [32m+[0m[0m skip_destroy                   = false
+      [32m+[0m[0m source_code_hash               = "MeRoJWyt0Wp+JwKtFTmzKIokRx6gAaeOQ90plIllolk="
+      [32m+[0m[0m source_code_size               = (known after apply)
+      [32m+[0m[0m tags                           = {
+          [32m+[0m[0m "Lab"     = "11"
+          [32m+[0m[0m "Project" = "TerraFleet"
+        }
+      [32m+[0m[0m tags_all                       = {
+          [32m+[0m[0m "Lab"     = "11"
+          [32m+[0m[0m "Project" = "TerraFleet"
+        }
+      [32m+[0m[0m timeout                        = 60
+      [32m+[0m[0m version                        = (known after apply)
+
+      [32m+[0m[0m environment {
+          [32m+[0m[0m variables = {
+              [32m+[0m[0m "TABLE_NAME" = "lab11-telemetria"
+              [32m+[0m[0m "TTL_DAYS"   = "7"
+            }
+        }
+
+      [32m+[0m[0m ephemeral_storage (known after apply)
+
+      [32m+[0m[0m logging_config (known after apply)
+
+      [32m+[0m[0m tracing_config (known after apply)
+    }
+
+[1mPlan:[0m [0m13 to add, 0 to change, 0 to destroy.
+
+Changes to Outputs:
+  [32m+[0m[0m gsi_name         = "empresa-timestamp-index"
+  [32m+[0m[0m lambda_benchmark = "lab11-dynamo-benchmark"
+  [32m+[0m[0m lambda_consultar = "lab11-dynamo-consultar-telemetria"
+  [32m+[0m[0m lambda_procesar  = "lab11-dynamo-procesar-telemetria"
+  [32m+[0m[0m table_arn        = (known after apply)
+  [32m+[0m[0m table_name       = "lab11-telemetria"
+[0m[1maws_iam_role.benchmark: Creating...[0m[0m
+[0m[1maws_iam_role.procesar_telemetria: Creating...[0m[0m
+[0m[1maws_iam_role.consultar_telemetria: Creating...[0m[0m
+[0m[1maws_dynamodb_table.telemetria: Creating...[0m[0m
+[0m[1maws_iam_role.consultar_telemetria: Creation complete after 1s [id=lab11-dynamo-consultar-telemetria][0m
+[0m[1maws_iam_role_policy_attachment.consultar_logs: Creating...[0m[0m
+[0m[1maws_iam_role.procesar_telemetria: Creation complete after 1s [id=lab11-dynamo-procesar-telemetria][0m
+[0m[1maws_iam_role_policy_attachment.procesar_logs: Creating...[0m[0m
+[0m[1maws_iam_role.benchmark: Creation complete after 1s [id=lab11-dynamo-benchmark][0m
+[0m[1maws_iam_role_policy_attachment.benchmark_logs: Creating...[0m[0m
+[0m[1maws_iam_role_policy_attachment.consultar_logs: Creation complete after 0s [id=lab11-dynamo-consultar-telemetria/arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole][0m
+[0m[1maws_iam_role_policy_attachment.procesar_logs: Creation complete after 0s [id=lab11-dynamo-procesar-telemetria/arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole][0m
+[0m[1maws_iam_role_policy_attachment.benchmark_logs: Creation complete after 0s [id=lab11-dynamo-benchmark/arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole][0m
+[0m[1maws_dynamodb_table.telemetria: Still creating... [00m10s elapsed][0m[0m
+[0m[1maws_dynamodb_table.telemetria: Still creating... [00m20s elapsed][0m[0m
+[0m[1maws_dynamodb_table.telemetria: Still creating... [00m30s elapsed][0m[0m
+[0m[1maws_dynamodb_table.telemetria: Creation complete after 31s [id=lab11-telemetria][0m
+[0m[1maws_iam_role_policy.benchmark_dynamo: Creating...[0m[0m
+[0m[1maws_iam_role_policy.consultar_dynamo: Creating...[0m[0m
+[0m[1maws_iam_role_policy.procesar_dynamo: Creating...[0m[0m
+[0m[1maws_lambda_function.benchmark: Creating...[0m[0m
+[0m[1maws_lambda_function.consultar_telemetria: Creating...[0m[0m
+[0m[1maws_lambda_function.procesar_telemetria: Creating...[0m[0m
+[0m[1maws_iam_role_policy.consultar_dynamo: Creation complete after 1s [id=lab11-dynamo-consultar-telemetria:lab11-consultar-dynamo-read][0m
+[0m[1maws_iam_role_policy.benchmark_dynamo: Creation complete after 1s [id=lab11-dynamo-benchmark:lab11-benchmark-dynamo-read][0m
+[0m[1maws_iam_role_policy.procesar_dynamo: Creation complete after 1s [id=lab11-dynamo-procesar-telemetria:lab11-procesar-dynamo-write][0m
+[0m[1maws_lambda_function.benchmark: Creation complete after 7s [id=lab11-dynamo-benchmark][0m
+[0m[1maws_lambda_function.consultar_telemetria: Still creating... [00m10s elapsed][0m[0m
+[0m[1maws_lambda_function.procesar_telemetria: Still creating... [00m10s elapsed][0m[0m
+[0m[1maws_lambda_function.consultar_telemetria: Creation complete after 14s [id=lab11-dynamo-consultar-telemetria][0m
+[0m[1maws_lambda_function.procesar_telemetria: Still creating... [00m20s elapsed][0m[0m
+[0m[1maws_lambda_function.procesar_telemetria: Creation complete after 20s [id=lab11-dynamo-procesar-telemetria][0m
+[33mÔòÀ[0m[0m
+[33mÔöé[0m [0m[1m[33mWarning: [0m[0m[1mArgument is deprecated[0m
+[33mÔöé[0m [0m
+[33mÔöé[0m [0m[0m  with aws_dynamodb_table.telemetria,
+[33mÔöé[0m [0m  on tabla.tf line 1, in resource "aws_dynamodb_table" "telemetria":
+[33mÔöé[0m [0m   1: resource "aws_dynamodb_table" "telemetria" [4m{[0m[0m
+[33mÔöé[0m [0m
+[33mÔöé[0m [0mrange_key is deprecated. Use key_schema instead.
+[33mÔöé[0m [0m
+[33mÔöé[0m [0m(and 5 more similar warnings elsewhere)
+[33mÔòÁ[0m[0m
+[0m[1m[32m
+Apply complete! Resources: 13 added, 0 changed, 0 destroyed.[0m
+[0m[1m[32m
+Outputs:
+
+[0mgsi_name = "empresa-timestamp-index"
+lambda_benchmark = "lab11-dynamo-benchmark"
+lambda_consultar = "lab11-dynamo-consultar-telemetria"
+lambda_procesar = "lab11-dynamo-procesar-telemetria"
+table_arn = "arn:aws:dynamodb:us-east-2:453983326870:table/lab11-telemetria"
+table_name = "lab11-telemetria"
+=== FIN: 11/07/2026 23:38:07 ===
